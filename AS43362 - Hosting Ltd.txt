@@ -11,3 +11,10 @@
 185.84.110.0/23
 78.108.81.0/24
 78.108.84.0/23
+## Saint-Petersburg department Majordomo Llc
+78.108.86.0/23
+## DataHouse department Majordomo Llc
+78.108.88.0/23
+78.108.90.0/23
+78.108.92.0/23
+78.108.94.0/23
