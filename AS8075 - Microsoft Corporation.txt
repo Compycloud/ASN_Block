@@ -1,3 +1,5 @@
 ## Microsoft Corporation
 4.240.106.137/32
 4.240.106.177/32
+## Email Servers without Spam protection
+52.103.64.33/32
