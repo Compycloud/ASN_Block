@@ -5,5 +5,6 @@
 ## Amazon Data Services France
 15.237.180.153/24
 15.236.154.43/24
+15.237.189.84/24
 ## Amazon Data Services Ireland Limited
 3.250.115.18/24
