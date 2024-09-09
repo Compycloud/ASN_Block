@@ -8,3 +8,4 @@
 15.237.189.84/24
 ## Amazon Data Services Ireland Limited
 3.250.115.18/24
+35.180.129.155/24
