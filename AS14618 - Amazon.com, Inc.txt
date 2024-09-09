@@ -1,3 +1,5 @@
+## Amazon Technologies Inc.
+34.229.227.26/24
 ## Amazon Data Services NoVa
 98.80.142.7/32
 98.80.142.88/32
