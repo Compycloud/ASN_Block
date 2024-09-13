@@ -1,3 +1,5 @@
 ## Telecom Argentina S.A.
 152.169.48.131/15
 181.30.230.254/15
+## Apolo -Gold-Telecom-Per
+181.92.153.73/15
