@@ -18,3 +18,5 @@
 35.159.91.91/32
 ## Avago Technologies U.S. Inc.
 67.219.246.2/24
+## Amazon.com, Inc.
+54.201.103.89/32
