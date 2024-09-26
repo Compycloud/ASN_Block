@@ -1,0 +1,3 @@
+## Dinas Komunikasi dan Informatika Kota Madiun
+103.149.120.110/24
+103.149.121.0/24
