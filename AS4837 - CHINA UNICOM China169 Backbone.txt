@@ -62,7 +62,7 @@
 103.189.93.0/24
 ## Quantum Cloud New Media Technologies Co.Ltd	
 103.192.4.0/23
-## 	BeiJing HDTC Technology Co.,Ltd	
+## BeiJing HDTC Technology Co.,Ltd	
 103.193.188.0/22
 ## Shandong Tian Wo Network Technology Co.,Ltd	
 103.198.64.0/22
