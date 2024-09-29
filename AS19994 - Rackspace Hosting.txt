@@ -1,2 +1,2 @@
 ## Mailgun Technologies Inc
-198.61.254.50/32
+198.61.254.50/24
