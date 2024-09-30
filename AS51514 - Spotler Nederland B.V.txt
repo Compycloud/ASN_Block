@@ -1,0 +1,6 @@
+## CommuniGator Ltd
+37.221.217.236/21
+## Spotler Limited
+37.221.216.0/21
+## Spotler Nederland B.V.
+46.31.48.0/21
