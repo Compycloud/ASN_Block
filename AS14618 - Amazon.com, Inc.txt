@@ -29,3 +29,5 @@
 161.38.204.238/32
 ## Shell Internet (Beijing) Security Technology Co. Ltd.
 54.219.187.226/18
+## Amazon Data Services Singapore
+18.136.31.50/32
