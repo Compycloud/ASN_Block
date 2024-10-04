@@ -27,3 +27,5 @@
 141.193.32.12/23
 159.135.140.82/11
 161.38.204.238/32
+## Shell Internet (Beijing) Security Technology Co. Ltd.
+54.219.187.226/18
