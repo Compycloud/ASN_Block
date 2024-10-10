@@ -1,3 +1,5 @@
+## Amazon Technologies Inc.
+3.143.167.114/32
 ## Amazon Data Services Brazil
 15.229.228.241/15
 54.232.215.236/18
