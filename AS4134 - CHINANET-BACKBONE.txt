@@ -148,3 +148,5 @@
 106.43.0.0/16
 ## CHINANET-ZJ Lishui node network
 183.151.227.35/11
+## CHINANET-ZJ Hangzhou node network
+115.197.170.236/11
