@@ -1,2 +1,3 @@
 ## M247 LTD Singapore Infrastructure
 185.200.117.131/24
+193.37.254.35/24
