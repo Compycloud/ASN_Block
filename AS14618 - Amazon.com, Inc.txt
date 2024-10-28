@@ -36,3 +36,5 @@
 54.219.187.226/18
 ## Amazon Data Services Singapore
 18.136.31.50/32
+## HubSpot, Inc.
+# 158.247.16.0/20 Never Block
