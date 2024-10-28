@@ -29,9 +29,7 @@ jobs:
       - name: Run a one-line script
         run: |
          find ./ -type f "txt" | while read fname; do
-          filename=`basename "$fname"`
-          newname=`echo "$filename" | sed -e "s/ /_/g"`
-          cp "$filename" "MERGE.TXT"
+          merge "$fname" "MERGE.TXT"
           done
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
