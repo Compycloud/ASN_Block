@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: |
-         find ./myfolder/ -type f -name ".txt" | while read fname; do
+         find ./ -type f -name ".txt" | while read fname; do
           dirname=`dirname "$fname"`
           foldername=`basename "$dirname"`
           filename=`basename "$fname"`
