@@ -29,11 +29,10 @@ jobs:
       - name: Run a one-line script
         run: |
          find ./ -type f "txt" | while read fname; do
-          dirname=`dirname "$fname"`
           foldername=`basename "$dirname"`
           filename=`basename "$fname"`
           newname=`echo "$dirname" | sed -e "s/ /_/g"`
-          cp "${dirname}/$filename" "MERGE.TXT"
+          cp "$filename" "MERGE.TXT"
           done
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
