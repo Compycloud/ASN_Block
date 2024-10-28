@@ -1,2 +1,8 @@
 ## Alviva Holding Limited
 147.45.112.151/24
+## Cloud Hosting & VDS services
+185.232.67.0/24
+## FutureNow Incorporated
+88.214.26.0/24
+## Bunea TELECOM SRL
+92.118.36.0/24
