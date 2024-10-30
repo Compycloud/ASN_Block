@@ -1,0 +1,2 @@
+## MarocTelecomASDL
+160.177.0.0/21
