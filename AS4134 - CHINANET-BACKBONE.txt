@@ -153,3 +153,5 @@
 183.151.227.35/11
 ## CHINANET-ZJ Hangzhou node network
 115.197.170.236/11
+## CHINANET Liaoning province network
+182.204.178.139/13
