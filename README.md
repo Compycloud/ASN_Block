@@ -6,6 +6,12 @@ If you ISP provider would like to remove your IP number from the list, use Issue
 
 We welcome suggestions and requests for improvements.
 
+## How do I use your list in my organization?
+Use ASNCOMBINED.txt
+```yaml
+https://raw.githubusercontent.com/Compycloud/ASN_Block/refs/heads/main/ASNCOMBINED.txt
+```
+And sync this file every hour.
 
 ## Usage
 The list is completely free to use in your own project.
