@@ -9,7 +9,7 @@ We welcome suggestions and requests for improvements.
 ## How do I use your list in my organization?
 Use ASNCOMBINED.txt
 ```yaml
-https://raw.githubusercontent.com/Compycloud/ASN_Block/refs/heads/main/ASNCOMBINED.txt
+https://raw.githubusercontent.com/Compycloud/ASN_Block/master/ASNCOMBINED.txt
 ```
 And sync this file every hour.
 
@@ -21,7 +21,7 @@ And sync this file every hour.
 ```yaml
 IPv4 Source Definitions:
 Auto ON
-https://raw.githubusercontent.com/Compycloud/ASN_Block/refs/heads/main/ASNCOMBINED.txt
+https://raw.githubusercontent.com/Compycloud/ASN_Block/master/ASNCOMBINED.txt
 CCASN_ASNCOMBINED
 Action: Deny Both
 Update Frequency: Every hour
