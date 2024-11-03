@@ -248,6 +248,7 @@
 ## A100 ROW GmbH
 3.69.243.129/12
 ## Amazon Data Services France
+13.37.213.159/24
 13.39.83.164/24
 ## Amazon.com, Inc.
 13.52.107.210/32
