@@ -15,7 +15,10 @@ And sync this file every hour.
 
 ## pfBlockerNG
 ```yaml
-IPv4 Source Definitions: Auto ON https://raw.githubusercontent.com/Compycloud/ASN_Block/refs/heads/main/ASNCOMBINED.txt CCANS_ASNCOMBINED
+IPv4 Source Definitions:
+Auto ON
+https://raw.githubusercontent.com/Compycloud/ASN_Block/refs/heads/main/ASNCOMBINED.txt
+CCANS_ASNCOMBINED
 Action: Deny Both
 Update Frequency: Every hour
 Weekly (Day of Week): Monday
