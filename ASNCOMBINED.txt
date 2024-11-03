@@ -2596,6 +2596,8 @@
 160.177.0.0/21
 ## Contel OOO
 109.248.11.184/23
+## XePhion(NTT-ME Corporation)
+58.98.203.235/18
 ## EGOVERNMENT UNIT
 168.232.145.28/23
 ## China Mobile Communications Corporation
