@@ -1309,6 +1309,31 @@
 80.66.66.50/24
 ## MainOne
 197.253.54.22/18
+## Ghana Internet Exchange Association
+196.201.2.0/24
+## Internet Exchange Point of Nigeria
+196.216.148.0/24
+## Mainone Cable Company
+154.113.0.0/16
+196.49.62.0/24
+197.253.0.0/18
+41.75.80.0/20
+## MainOne Cable Company (Ghana) Ltd
+41.207.252.0/22
+45.222.192.0/18
+## MainOne Cloud Service
+154.113.95.0/24
+## MainOne COTE D'IVOIRE
+102.130.224.0/21
+## MainOne Data Center - Cloud Infrastructure - Statically Assigned
+154.113.0.0/22
+154.113.4.0/23
+154.113.6.0/23
+## MDXi Cloud Infrastructure - Statically Assigned
+154.113.10.0/23
+154.113.8.0/24
+## Statically Assigned
+196.200.79.0/24
 ## Swiss Federation represented by FOITT
 162.23.23.176/16
 ## www.daticum.com
