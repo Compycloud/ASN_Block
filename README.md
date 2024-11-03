@@ -19,9 +19,12 @@ And sync this file every hour.
 3. Name / Description `CCASN` `COMPYCLOUD ASN Block List`
 4. Paste the URL from below
 ```yaml
-IPv4 Source Definitions:
-Auto ON
+IPv4 Source Definitions: Auto ON
+```
+```yaml
 https://raw.githubusercontent.com/Compycloud/ASN_Block/master/ASNCOMBINED.txt
+```
+```yaml
 CCASN_ASNCOMBINED
 Action: Deny Both
 Update Frequency: Every hour
