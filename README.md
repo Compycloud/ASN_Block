@@ -14,11 +14,15 @@ https://raw.githubusercontent.com/Compycloud/ASN_Block/refs/heads/main/ASNCOMBIN
 And sync this file every hour.
 
 ## pfBlockerNG
+1. In your pfSense dashboard go to  `Firewall > pfBlockerNG > IP > IP4`
+2. Click `Add`
+3. Name / Description `CCASN` `COMPYCLOUD ASN Block List`
+4. Paste the URL from below
 ```yaml
 IPv4 Source Definitions:
 Auto ON
 https://raw.githubusercontent.com/Compycloud/ASN_Block/refs/heads/main/ASNCOMBINED.txt
-CCANS_ASNCOMBINED
+CCASN_ASNCOMBINED
 Action: Deny Both
 Update Frequency: Every hour
 Weekly (Day of Week): Monday
@@ -26,5 +30,8 @@ Auto-Sort Header field: Enable auto-sort
 Enable Logging: Enaled
 States Removal: Enabled
 ```
+4. Click `Save IPv4 Settings`  
+5. Make sure auto updates are on, and you may force update to apply the list immediately. 
+
 ## Usage
 The list is completely free to use in your own project.
