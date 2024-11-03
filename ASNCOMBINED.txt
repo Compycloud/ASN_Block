@@ -921,6 +921,8 @@
 156.228.79.0/24
 156.228.80.0/24
 156.228.81.0/24
+## Korea Telecom
+61.74.26.227/13
 ## Visual Link
 66.84.80.50/24
 ## Lanset America Corporation
