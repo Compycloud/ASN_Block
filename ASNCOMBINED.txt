@@ -1975,6 +1975,8 @@
 45.138.16.161/24
 ## WorldLink Communications
 27.34.65.159/24
+## Mobile TeleSystems JLLC
+134.17.94.149/21
 ## Kamatera Inc
 185.229.224.230/24
 ## Citytelecom LLC
