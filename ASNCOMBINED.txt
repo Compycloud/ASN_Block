@@ -818,6 +818,8 @@
 116.251.64.0/18
 140.205.1.0/24
 140.205.122.0/24
+## InMotion Hosting, Inc.
+23.235.198.142/22
 ## Reliance Communications Ltd
 115.248.66.131/24
 ## Luckland Services Ltd
