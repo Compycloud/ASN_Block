@@ -13,3 +13,5 @@
 15.207.67.206/15
 ## A100 ROW GmbH
 3.69.243.129/12
+## Amazon Data Services France
+13.39.83.164/24
