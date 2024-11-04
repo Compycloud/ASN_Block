@@ -4285,6 +4285,8 @@
 133.186.144.112/24
 ## KPN B.V.
 80.61.124.182/32
+## A2 Hosting, Inc.
+190.92.151.24/22
 ## Myanmar Unilink Communication CloudHosting
 103.89.179.165/24
 ## DIGITAL NETWORK CLOUD COMPANY LIMITED
