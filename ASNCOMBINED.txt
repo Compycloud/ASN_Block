@@ -1703,6 +1703,8 @@
 185.192.112.0/24
 185.192.113.0/24
 185.192.114.0/24
+## Flux Services, Inc.
+173.225.21.50/23
 ## Vidanet Cabletelevision Provider Ltd.
 94.248.146.91/19
 ## SMARTHOST, LLC
