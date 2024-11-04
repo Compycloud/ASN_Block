@@ -2895,6 +2895,8 @@
 216.244.66.196/19
 ## Representative office of AZDIGI Corporation in Da Nang
 103.110.84.40/22
+## CLOUDI NEXTGEN SL
+217.71.206.190/24
 ## CTM
 113.52.64.0/18
 113.52.64.0/19
