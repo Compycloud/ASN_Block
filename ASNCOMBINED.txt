@@ -2912,6 +2912,8 @@
 89.38.224.211/24
 ## KDDI CORPORATION
 111.98.253.212/16
+## Vietnam Posts and Telecommunications Group
+14.187.17.37/20
 ## AGUAS ZARCAS
 201.203.6.121/24
 ## Wowrack.com
