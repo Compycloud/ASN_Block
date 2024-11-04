@@ -4049,6 +4049,8 @@
 94.141.120.207/24
 ## Daria Aleksiienko
 188.190.10.0/24
+## Atria Convergence Technologies Pvt. Ltd.,
+106.51.2.37/22
 ## Tier4Cloud
 43.230.202.194/24
 ## CHINANET SHANDONG PROVINCE NETWORK
