@@ -2766,6 +2766,8 @@
 145.239.89.221/16
 ## OVH Hosting Limited
 54.36.31.145/16
+## OVH Hosting, Inc.
+144.217.215.210/16
 ## MarocTelecomASDL
 160.177.0.0/21
 ## Contel OOO
