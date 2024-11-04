@@ -343,6 +343,8 @@
 80.241.60.0/24
 ## DSS Serviços de Tecnologia da Informação
 187.28.106.30/32
+## Internet Names For Business Inc.
+66.175.44.36/18
 ## 102 Aarti Chambers,
 103.109.100.0/22
 ## HCS LIMITED t/a HUA SHENG YUN
