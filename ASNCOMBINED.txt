@@ -239,6 +239,7 @@
 54.232.215.236/18
 ## Amazon Data Services Singapore
 13.214.44.99/15
+47.129.238.14/14
 ## Amazon Data Services Ireland Limited
 34.246.115.156/32
 52.210.124.58/32
