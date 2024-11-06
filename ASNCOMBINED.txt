@@ -119,6 +119,8 @@
 194.140.245.0/24
 ## Asociatia Interlan
 89.43.17.94/22
+## BL Networks
+206.188.196.130/24
 ## Z-Telecom Network
 5.16.21.118/22
 ## CJSC ER-Telecom Holding Saint-Petersburg branch
