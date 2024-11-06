@@ -2159,6 +2159,8 @@
 185.58.207.240/24
 ## CJSC KRAUS-M
 37.18.87.8/24
+## Individual entrepreneur Dyachenko Valentina Ivanovna
+94.154.37.145/24
 ## Rethem Hosting LLC
 104.152.52.114/22
 ## Irideos Spa
