@@ -1477,7 +1477,7 @@
 ## Vodafone Portugal
 89.115.243.186/15
 ## nuxt.cloud hosting provider
-212.113.107.0/24
+212.113.107.32/24
 ## Genesys Informatica srl
 89.31.72.0/21
 ## Server Hosting
