@@ -4022,6 +4022,8 @@
 87.120.127.64/24
 ## O.M.C. COMPUTERS & COMMUNICATIONS LTD
 185.237.13.8/24
+## VPS and Shared Hosting
+5.188.206.54/24
 ## BullRDP
 37.114.63.58/24
 ## Etihad Jawraa Company for communication and information technology
