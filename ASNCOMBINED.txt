@@ -936,6 +936,8 @@
 2.57.149.0/24
 ## Red Byte LLC
 83.97.73.0/24
+## Mango Teleservices, IIG of Bangladesh
+114.130.71.30/24
 ## Alibaba Cloud (Singapore) Private Limited
 8.218.30.127/17
 8.219.181.180/17
