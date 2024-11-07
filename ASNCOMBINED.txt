@@ -536,6 +536,8 @@
 45.115.25.0/24
 ## ARLINK S.A.
 190.113.188.140/24
+## Vodafone Net Iletisim Hizmetler AS
+31.145.138.124/17
 ## 11/F COL Tower, Wharf T&T Square
 103.6.48.0/22
 ## Bausch & Lomb
