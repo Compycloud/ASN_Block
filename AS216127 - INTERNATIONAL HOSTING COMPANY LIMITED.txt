@@ -1,2 +1,2 @@
 ## nuxt.cloud hosting provider
-212.113.107.0/24
+212.113.107.32/24
