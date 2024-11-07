@@ -416,6 +416,8 @@
 37.156.144.83/24
 ## Bouygues Telecom Fixe and Mobile Division
 176.147.46.221/32
+## Perfecto Consultoria E Apoio Administrativo LTDA
+178.215.238.131/24
 ## Safaricom Limited
 105.163.2.164/24
 ## GoDaddy.com, LLC
