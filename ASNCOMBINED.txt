@@ -1888,6 +1888,8 @@
 125.212.218.5/20
 ## Armour Cloud, LLC
 209.250.5.47/24
+## HostHatch Inc
+176.126.86.157/24
 ## Reliance Jio Infocomm Limited
 47.247.158.230/22
 ## Beijing capitalonline data service co.,LTD
