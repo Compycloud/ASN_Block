@@ -4198,6 +4198,8 @@
 102.165.48.0/24
 ## AS138423 - CMPak Limited
 223.123.33.46/24
+## FS Veri Merkezi Internet Teknolojileri Limited Sirketi
+78.111.98.0/24
 ## Liquid Web B.V.
 185.67.45.152/22
 ## Worldcall Telecom Ltd
