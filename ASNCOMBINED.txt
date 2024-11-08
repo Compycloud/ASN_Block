@@ -3934,6 +3934,8 @@
 185.15.121.108/24
 ## UniversCloud
 193.177.162.138/24
+## Layer7 Networks GmbH
+185.55.240.207/24
 ## Saudi Telecom Company JSC
 77.90.215.166/20
 175.110.145.205/20
