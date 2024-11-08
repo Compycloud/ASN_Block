@@ -1611,6 +1611,8 @@
 196.200.79.0/24
 ## Swiss Federation represented by FOITT
 162.23.23.176/16
+## Cloud Host Pte Ltd
+103.250.11.32/24
 ## www.daticum.com
 94.155.49.99/24
 ## Customer VPS
