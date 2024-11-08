@@ -3789,6 +3789,7 @@
 193.177.162.138/24
 ## Saudi Telecom Company JSC
 77.90.215.166/20
+175.110.145.205/20
 ## Office of Info.Tech. Admin. for Educational Development
 202.29.18.253/24
 ## Horizon LLC
