@@ -1622,6 +1622,7 @@
 23.95.39.33/23
 ## HostPapa
 23.236.252.203/23
+172.245.93.79/23
 ## Compañía Dominicana de Teléfonos S. A.
 148.255.157.156/16
 ## Representative office in HaNoi of VietServer Services technology company limited
