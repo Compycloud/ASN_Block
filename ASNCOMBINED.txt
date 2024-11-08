@@ -2373,6 +2373,8 @@
 103.163.221.0/24
 ## Skoali
 203.55.81.228/24
+## China Unicom Beijing province network
+61.135.18.138/18
 ## DigitalOcean, LLC
 46.101.208.77/24
 64.23.140.158/20
