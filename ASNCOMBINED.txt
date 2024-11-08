@@ -5158,6 +5158,8 @@
 87.107.102.0/24
 ## Toloe Rayaneh Loghman Educational and Cultural Co.
 178.239.157.0/24
+## Get-Net LLC
+84.38.0.110/24
 ## Strong Technology, LLC.
 216.131.77.250/24
 ## Bratislava, Slovakia
