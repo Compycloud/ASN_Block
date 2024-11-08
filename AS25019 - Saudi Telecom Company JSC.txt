@@ -1,2 +1,3 @@
 ## Saudi Telecom Company JSC
 77.90.215.166/20
+175.110.145.205/20
