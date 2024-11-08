@@ -466,6 +466,8 @@
 187.28.106.30/32
 ## Internet Names For Business Inc.
 66.175.44.36/18
+## Aruba S.p.A.
+194.182.87.135/19
 ## 102 Aarti Chambers,
 103.109.100.0/22
 ## HCS LIMITED t/a HUA SHENG YUN
