@@ -4093,6 +4093,8 @@
 200.80.10.27/32
 ## Server Hosting Service (NTTPCCommunications,Inc.)
 157.65.22.146/20
+## Sendinblue SAS
+77.32.148.101/22
 ## Guangzhou-YangChengTong-Co-Ltd, Guangzhou, Guangdong province
 112.94.160.0/22
 ## China Unicom Guangdong province network
