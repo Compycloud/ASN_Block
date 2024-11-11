@@ -725,6 +725,8 @@
 194.120.104.0/23
 ## Registrator LLC
 77.87.214.0/23
+## Name Hero, LLC
+165.140.69.155/24
 ## Chunghwa Telecom Co.,Ltd.
 125.227.156.180/16
 ## ab stract ltd
