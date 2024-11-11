@@ -4883,6 +4883,8 @@
 147.78.47.54/24
 ## Cloud VDS Network
 141.98.81.139/24
+## COMSATS (Commission on Science and Technology
+203.124.57.93/24
 ## Shanghai Blue Cloud Technology Co.,Ltd
 40.73.2.47/17
 103.9.8.0/22
