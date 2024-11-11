@@ -5079,6 +5079,8 @@
 43.230.202.194/24
 ## CHINANET SHANDONG PROVINCE NETWORK
 182.40.38.5/20
+## Inspici
+45.84.89.2/24
 ## Verizon Business
 71.164.83.186/32
 ## Hosting servers and supporting infra
