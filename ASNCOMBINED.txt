@@ -3337,6 +3337,8 @@
 206.72.195.91/20
 ## Dot Holding, Inc.
 104.171.31.153/22
+## Sky Italia srl
+101.58.221.125/32
 ## Mailgun Technologies Inc
 198.61.254.50/24
 ## MEVSPACE sp. z o.o.
