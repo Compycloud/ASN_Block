@@ -1,2 +1,4 @@
 ## M Nets SAL
 147.78.47.54/24
+## Cloud VDS Network
+141.98.81.139/24
