@@ -2970,6 +2970,8 @@
 66.187.7.0/24
 ## Virtual Systems LLC
 45.11.59.130/24
+## Expedient
+66.181.72.85/32
 ## LLC DZHIBIEN HOST
 45.8.124.15/24
 ## Matthew Russell
