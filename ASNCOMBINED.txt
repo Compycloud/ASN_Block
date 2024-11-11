@@ -4879,6 +4879,8 @@
 181.208.254.0/24
 ## M Nets SAL
 147.78.47.54/24
+## Cloud VDS Network
+141.98.81.139/24
 ## Shanghai Blue Cloud Technology Co.,Ltd
 40.73.2.47/17
 103.9.8.0/22
