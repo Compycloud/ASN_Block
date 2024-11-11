@@ -1774,6 +1774,8 @@
 172.245.93.79/23
 ## Compañía Dominicana de Teléfonos S. A.
 148.255.157.156/16
+## Nextnet Network Pvt Ltd
+103.171.39.95/24
 ## Representative office in HaNoi of VietServer Services technology company limited
 103.153.78.87/23
 ## Hypernet Vietnam Technology Company Limited
