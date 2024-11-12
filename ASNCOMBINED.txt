@@ -1763,6 +1763,8 @@
 162.23.23.176/16
 ## Cloud Host Pte Ltd
 103.250.11.32/24
+## Hrvatski Telekom d.d.
+194.152.206.17/18
 ## www.daticum.com
 94.155.49.99/24
 ## Customer VPS
