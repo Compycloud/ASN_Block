@@ -4051,7 +4051,9 @@
 103.250.216.0/22
 ## China Unicom Hunan province network	
 103.250.248.0/22
-## China Unicom Shanxi province network	
+## China Unicom Shanxi province network
+60.220.0.0/14
+103.27.240.0/22
 103.250.32.0/22
 ## China Unicom Hainan province network	
 103.251.124.0/22
@@ -4071,8 +4073,6 @@
 103.255.88.0/22
 ## Nanjing Suning Electronic Information Technology Co., Ltd.	
 103.255.92.0/22
-## China Unicom Shanxi province network	
-103.27.240.0/22
 ## Kaopu Cloud	
 103.27.4.0/22
 ## Anhui Badu Network Technology Co., Ltd	
