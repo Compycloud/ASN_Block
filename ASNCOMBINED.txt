@@ -5493,6 +5493,8 @@
 192.35.226.0/24
 ## Hivelocity LLC
 149.255.35.26/24
+## Hot-Net internet services Ltd.
+37.142.173.192/24
 ## ISTITUTO TECNICO INDUSTRIALE STATALE 'MAX PLANCK'
 2.112.70.196/32
 ## Telecom Italia S.p.A.
