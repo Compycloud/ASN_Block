@@ -737,6 +737,7 @@
 ## PJSC Rostelecom
 93.120.240.202/18
 ## Palo Alto Networks, Inc
+147.185.132.25/22
 205.210.31.21/24
 ## Google LLC
 34.21.8.221/24
