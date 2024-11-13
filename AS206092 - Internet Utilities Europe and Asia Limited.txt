@@ -157,3 +157,5 @@
 ## XS Usenet	
 103.163.220.0/24
 103.163.221.0/24
+## VPN Consumer Frankfurt, Germany
+45.86.202.84/24
