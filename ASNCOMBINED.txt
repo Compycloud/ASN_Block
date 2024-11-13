@@ -1205,6 +1205,7 @@
 ## Korea Telecom
 61.74.26.227/13
 203.243.11.35/18
+221.156.126.1/13
 ## Visual Link
 66.84.80.50/24
 ## Lanset America Corporation
