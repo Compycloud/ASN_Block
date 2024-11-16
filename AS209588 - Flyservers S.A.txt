@@ -2,3 +2,15 @@
 147.78.47.54/24
 ## Cloud VDS Network
 141.98.81.139/24
+## Flyservers S.A.
+141.98.82.0/24
+141.98.83.0/24
+## VDS & Cloud services
+141.98.9.0/24
+## END-CLIENTS-FOR-VPS-VDS
+147.78.47.0/24
+## Cloud Solutions S.A.
+179.60.147.0/24
+## Alviva Holding Limited
+81.19.135.0/24
+92.51.2.0/24
