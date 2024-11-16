@@ -1949,6 +1949,8 @@
 103.153.78.87/23
 ## Hypernet Vietnam Technology Company Limited
 103.125.190.93/22
+## Phong Thuy media joint stock company
+103.82.26.5/22
 ## Global Technology Co., Ltd.
 103.231.95.43/24
 ## 7t1 Communication
