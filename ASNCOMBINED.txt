@@ -1063,6 +1063,8 @@
 185.91.127.43/24
 ## Mo's Operations GmbH
 45.137.201.200/24
+## Japan Network Information Center
+133.94.1.4/32
 ## RCS & RDS Business
 81.196.211.199/16
 ## LINKdotNET Telecom Limited
