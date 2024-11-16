@@ -2389,6 +2389,8 @@
 173.225.21.50/23
 ## Vidanet Cabletelevision Provider Ltd.
 94.248.146.91/19
+## Cisco Systems Ironport Division
+207.54.87.193/32
 ## SMARTHOST, LLC
 185.127.94.96/24
 ## Cat Technologies Co. Limited
