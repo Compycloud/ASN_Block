@@ -4562,6 +4562,8 @@
 37.114.63.58/24
 ## BigScoots
 207.241.196.230/24
+## HongKong Virtual Internal Server Company Limited
+43.251.16.253/24
 ## Etihad Jawraa Company for communication and information technology
 185.133.181.24/24
 ## Beijing Lanxun CO.,LTD
