@@ -2,3 +2,5 @@
 103.153.78.87/23
 ## Hypernet Vietnam Technology Company Limited
 103.125.190.93/22
+## Phong Thuy media joint stock company
+103.82.26.5/22
