@@ -4286,6 +4286,8 @@
 ## Jiangyin Oweb Network Co., Ltd.	
 103.40.192.0/22
 
+## GLOBAL INTERNET SOLUTIONS LLC
+147.45.48.78/24
 ## SendGrid, Inc.
 167.89.10.30/32
 ## Emanuel Hosting Ltd.
