@@ -115,6 +115,8 @@
 ## ZENLA-1
 107.150.112.0/24
 107.150.117.0/24
+## FASTNET SpA - Network & Application Provider
+195.96.192.22/20
 ## Sparkpost
 156.70.4.186/23
 ## Digital IT Consulting SRL
