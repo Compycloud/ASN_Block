@@ -811,6 +811,8 @@
 ## Scaleway Dedibox
 # 62.210.24.157
 62.210.0.0/16
+## Telefónica Celular de Bolivia S.A.
+190.104.22.82/24
 ## Mailgun Technologies Inc.
 159.112.249.0/24
 ## PT. First Media, Tbk.
