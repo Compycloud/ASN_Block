@@ -477,6 +477,8 @@
 187.28.106.30/32
 ## Internet Names For Business Inc.
 66.175.44.36/18
+## Chinatelecom global
+203.86.123.116/24
 ## Openland scape Company Limited
 203.154.91.13/16
 ## Aruba S.p.A.
