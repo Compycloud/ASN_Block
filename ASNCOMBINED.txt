@@ -2538,6 +2538,8 @@
 ## Individual entrepreneur Dyachenko Valentina Ivanovna
 94.154.33.0/24
 94.154.37.0/24
+## Linode
+173.230.136.89/24
 ## Rethem Hosting LLC
 104.152.52.114/22
 ## Irideos Spa
