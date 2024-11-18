@@ -1,0 +1,2 @@
+## AS25347 CENTRETRANSTELECOM retail network in Smolensk
+213.137.244.9/21
