@@ -2966,6 +2966,8 @@
 ## Shanghai Data Solution Co., Ltd.
 61.129.155.206/17
 120.136.165.86/21
+## WiCAM Corporation, LTD
+119.15.83.218/24
 ## Hostnet B.V.
 185.107.113.241/32
 ## SECURED SERVERS LLC
