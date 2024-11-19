@@ -4352,6 +4352,7 @@
 ## FPT Telecom Company
 1.52.9.124/23
 42.113.27.97/24
+118.70.15.19/24
 ## THSOLUCIONES
 200.80.10.27/32
 ## Server Hosting Service (NTTPCCommunications,Inc.)
