@@ -5063,6 +5063,8 @@
 217.12.210.18/24
 ## Cloud Innovation Ltd
 156.242.126.53/32
+## Octopus Web Solution Inc
+156.228.173.238/24
 ## Dinas Komunikasi dan Informatika Kota Madiun
 103.149.120.110/24
 103.149.121.0/24
