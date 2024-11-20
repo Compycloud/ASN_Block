@@ -4501,6 +4501,8 @@
 91.191.223.0/24
 ## Future Spirits Co.,Ltd.
 219.99.167.74/21
+## WHG Hosting Services Ltd
+65.181.111.157/24
 ## Reg.Ru Hosting
 31.31.203.8/24
 134.0.112.0/24
