@@ -4957,6 +4957,8 @@
 194.36.87.151/24
 ## Nile Online
 217.52.248.5/24
+## GS Gesellschaft f. Umweltschutz mbH
+91.249.253.4/32
 ## GB, Highbridge
 195.219.32.160/16
 ## HOSTGNOME LTD
