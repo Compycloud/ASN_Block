@@ -3593,6 +3593,8 @@
 # 45.159.188.200 45.159.188.251
 45.159.188.0/24
 45.159.189.207/24
+## Lir.bg EOOD
+78.128.113.250/24
 ## Beam Telecom Pvt Ltd
 49.206.117.56/22
 ## RackBank Datacenters Private Ltd
