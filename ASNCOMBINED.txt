@@ -5591,6 +5591,8 @@
 194.233.97.0/24
 ## AirVPN.org
 213.152.161.0/24
+## SH-Customer188
+188.132.148.7/24
 ## Brander Group Inc.
 148.135.52.42/17
 ## Vultr Holdings, LLC
