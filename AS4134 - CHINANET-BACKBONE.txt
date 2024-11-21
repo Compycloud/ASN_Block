@@ -160,3 +160,5 @@
 182.204.178.139/13
 ## CHINANET Gansu province network
 42.93.50.134/15
+## CHINANET-ZJ Zhoushan node network
+220.187.6.242/13
