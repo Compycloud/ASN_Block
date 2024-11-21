@@ -4905,6 +4905,8 @@
 94.204.173.252/19
 ## SERVA ONE LTD
 91.239.148.227/24
+## Tencent Building, Kejizhongyi Avenue 
+150.109.148.216/23
 ## ACEVILLE PTE.LTD.
 101.32.245.127/20
 ## Asia Pacific Network Information Center, Pty. Ltd.
