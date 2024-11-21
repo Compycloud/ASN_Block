@@ -3948,6 +3948,8 @@
 58.98.203.235/18
 ## EGOVERNMENT UNIT
 168.232.145.28/23
+## Golden Frog GmbH
+31.6.50.91/24
 ## China Mobile Communications Corporation
 117.186.238.82/16
 ## China Mobile Communications Corporation117.131.0.0/17
