@@ -4369,6 +4369,8 @@
 147.45.48.78/24
 ## SendGrid, Inc.
 167.89.10.30/32
+## Customer dedicated servers located in Falkenberg
+46.21.99.39/32
 ## Emanuel Hosting Ltd.
 79.110.62.145/24
 ## Hostek AB
