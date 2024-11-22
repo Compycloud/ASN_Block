@@ -2456,6 +2456,8 @@
 186.102.167.59/20
 ## O.M.C. COMPUTERS & COMMUNICATIONS LTD
 103.45.246.42/24
+## mersin yolu 19 km beyza kesimhane seyhan adana
+212.175.207.181/17
 ## Orange S.A.
 90.126.49.76/16
 ## SK Broadband Co Ltd
