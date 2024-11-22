@@ -4174,6 +4174,8 @@
 60.246.64.0/19
 ## Orion Telekom Tim d.o.o
 77.105.0.60/24
+## Orion Telekom Tim Hosting pool
+77.105.36.107/23
 ## China Unicom SiChuan province network
 112.194.91.135/14
 119.7.84.131/14
