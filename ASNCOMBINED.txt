@@ -1986,6 +1986,8 @@
 104.168.15.4/24
 ## Compañía Dominicana de Teléfonos S. A.
 148.255.157.156/16
+## Al. Jerozolimskie 98
+185.2.4.53/21
 ## Nextnet Network Pvt Ltd
 103.171.39.95/24
 ## Vietnam Posts and Telecommunications Group
