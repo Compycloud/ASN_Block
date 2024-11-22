@@ -5865,6 +5865,8 @@
 103.238.234.0/23
 ## VPSTTT Technology Company Limited
 103.178.234.0/23
+## Psychz Networks
+108.181.2.33/19
 ## Psychz Networks ZA - Cloud Services
 165.73.253.239/23
 ## FiberXpress BV
