@@ -1,2 +1,4 @@
 ## Orion Telekom Tim d.o.o
 77.105.0.60/24
+## Orion Telekom Tim Hosting pool
+77.105.36.107/23
