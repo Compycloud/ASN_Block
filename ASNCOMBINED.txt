@@ -2240,6 +2240,8 @@
 177.249.10.243/21
 ## ITSPECTRUM-ISP
 103.83.189.130/24
+## ViaNetTV Inc
+104.158.16.0/24
 ## AS25347 CENTRETRANSTELECOM retail network in Smolensk
 213.137.244.9/21
 ## Locaweb Serviços de Internet S/A
