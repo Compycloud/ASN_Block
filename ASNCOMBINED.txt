@@ -4095,6 +4095,8 @@
 ## M247 Ltd Belgrade
 45.84.122.4/24
 89.38.224.211/24
+## M247 LTD London Infrastructure
+146.70.119.60/24
 ## KDDI CORPORATION
 111.98.253.212/16
 ## Vietnam Posts and Telecommunications Group
