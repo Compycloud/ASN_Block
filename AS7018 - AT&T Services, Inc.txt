@@ -1,0 +1,2 @@
+## Private Customer - AT&T Internet Services
+68.78.37.77/32
