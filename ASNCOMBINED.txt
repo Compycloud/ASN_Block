@@ -2272,6 +2272,8 @@
 201.76.49.143/19
 ## SUD TELECOM SOLUTIONS
 45.221.239.2/32
+## AKKnet Sp. z o.o.
+195.128.242.18/24
 ## Google Fiber Inc.
 136.38.237.72/20
 ## Viettel Group
