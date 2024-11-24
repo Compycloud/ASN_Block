@@ -444,7 +444,7 @@
 91.133.222.50/20
 204.18.153.156/20
 ## Perfecto Consultoria E Apoio Administrativo LTDA
-95.214.27.39/24
+95.214.27.33/24
 178.215.238.131/24
 ## Safaricom Limited
 105.163.2.164/24
