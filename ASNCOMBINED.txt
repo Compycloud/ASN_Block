@@ -1986,6 +1986,8 @@
 94.155.49.99/24
 ## Customer VPS
 185.107.89.35/22
+## Hostnet BV Network Operations
+37.128.148.215/21
 ## NOC Operator
 # 199.188.100.238
 199.188.100.0/24
