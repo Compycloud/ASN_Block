@@ -566,6 +566,8 @@
 190.113.188.140/24
 ## Vodafone Net Iletisim Hizmetler AS
 31.145.138.124/17
+## webhosting servers
+85.128.143.182/24
 ## 11/F COL Tower, Wharf T&T Square
 103.6.48.0/22
 ## Bausch & Lomb
