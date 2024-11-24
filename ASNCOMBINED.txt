@@ -1439,6 +1439,8 @@
 91.241.19.0/24
 ## Iran Telecommunication Company PJS
 5.75.79.4/17
+## WHG Hosting Services Ltd
+195.250.23.30/24
 ## EVANZO e-commerce GmbH
 # 178.254.0.206
 178.254.0.0/19
