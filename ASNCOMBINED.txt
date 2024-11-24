@@ -240,6 +240,8 @@
 202.61.233.6/24
 ## Wana Corporate
 197.146.167.73/16
+## Private Customer - AT&T Internet Services
+68.78.37.77/32
 ## JSC Datacenter
 91.240.84.8/23
 185.146.156.0/23
