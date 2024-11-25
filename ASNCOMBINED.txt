@@ -2007,6 +2007,8 @@
 103.250.11.32/24
 ## Hrvatski Telekom d.d.
 194.152.206.17/18
+## Hetzner Online GmbH
+5.78.123.163/24
 ## www.daticum.com
 94.155.49.99/24
 ## Customer VPS
