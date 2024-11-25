@@ -5513,6 +5513,8 @@
 154.203.197.123/24
 ## Daria Aleksiienko
 188.190.10.0/24
+## Viettel Group
+116.98.170.231/21
 ## Atria Convergence Technologies Pvt. Ltd.,
 106.51.2.37/22
 ## Tier4Cloud
