@@ -5134,6 +5134,8 @@
 185.91.69.209/24
 ## TnR Technologies B.V.
 45.8.17.125/24
+## Telecom Armenia OJSC
+178.160.211.234/18
 ## ZAM LTDA.
 186.64.118.225/21
 ## Paris, France
