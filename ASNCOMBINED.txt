@@ -843,6 +843,8 @@
 64.62.197.236/17
 ## Chang Way Technologies Co. Limited
 92.255.57.132/24
+92.255.85.0/24
+185.7.214.0/24
 ## SPD Bilopol Roman Leonidovich
 62.122.64.0/21
 91.192.152.0/22
