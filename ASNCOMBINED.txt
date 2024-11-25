@@ -394,6 +394,7 @@
 51.44.5.242/24
 ## Amazon Data Services UK
 13.42.162.9/32
+18.135.216.200/32
 18.175.175.134/32
 18.175.175.158/32
 ## Amazon Data Services Ireland Limited
