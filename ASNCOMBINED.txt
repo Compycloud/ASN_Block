@@ -3659,6 +3659,8 @@
 123.212.0.131/14
 ## IPXO LLC
 157.254.221.222/24
+## Vinters IT Ltd
+194.0.252.120/24
 ## WorldStream B.V.
 91.229.23.83/24
 ## Pakistan Telecommuication company limited
