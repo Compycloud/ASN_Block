@@ -2808,6 +2808,8 @@
 ## Skoali
 103.102.230.3/24
 203.55.81.228/24
+## CV. Rumahweb Indonesia
+203.194.112.42/24
 ## China Unicom Beijing province network
 61.135.18.138/18
 ## Beijing Beikuan Technology Co,Ltd
