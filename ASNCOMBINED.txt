@@ -4212,6 +4212,8 @@
 193.107.89.0/24
 ## HZ Hosting Ltd
 185.104.194.250/24
+## Arnestorp Design Handelsbolag
+185.133.206.28/22
 ## M247 LTD Singapore Infrastructure
 185.200.117.131/24
 193.37.254.35/24
