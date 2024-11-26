@@ -3090,6 +3090,8 @@
 198.15.78.234/24
 ## Packethub S.A.
 213.232.87.230/24
+## Consiliu Judetean Harghita
+85.186.88.250/17
 ## China Mobile Communications Corporation
 120.226.7.98/24
 111.22.0.0/16
