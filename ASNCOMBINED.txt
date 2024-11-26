@@ -1015,6 +1015,8 @@
 ## Yunduan Interchange (Beijing) Computer Technology Co., Ltd.
 103.139.212.0/24
 103.139.213.0/24
+## MSK TP Slava
+80.243.14.22/20
 ## TimeWeb Ltd.
 188.225.40.140/24
 109.68.212.0/24
