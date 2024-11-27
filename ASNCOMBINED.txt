@@ -1201,6 +1201,7 @@
 ## Alibaba Cloud (Singapore) Private Limited
 8.218.30.127/17
 8.219.181.180/17
+8.220.198.177/19
 8.221.105.3/18
 ## (Yeoksam-dong, Gangnam Finance Center) 14 Floor, 152, Teheran-ro, Gangnam-gu, Seoul, Korea
 149.129.0.0/20
