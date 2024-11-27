@@ -2325,6 +2325,8 @@
 176.120.16.228/24
 ## Armour Cloud, LLC
 209.250.5.47/24
+## InMotion Hosting, Inc.
+213.165.251.108/24
 ## HostHatch Inc
 176.126.86.157/24
 ## Reliance Jio Infocomm Limited
