@@ -586,6 +586,8 @@
 43.226.231.0/24
 ## Internet Security Services KR
 45.115.25.0/24
+## SiteHost New Zealand
+120.138.21.14/20
 ## ARLINK S.A.
 190.113.188.140/24
 ## Vodafone Net Iletisim Hizmetler AS
