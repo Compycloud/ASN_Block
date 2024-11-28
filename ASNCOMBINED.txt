@@ -4543,6 +4543,7 @@
 ## GLOBAL INTERNET SOLUTIONS LLC
 147.45.48.78/24
 ## SendGrid, Inc.
+149.72.115.133/32
 167.89.10.30/32
 ## Customer dedicated servers located in Falkenberg
 46.21.99.39/32
