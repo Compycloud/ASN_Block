@@ -3103,6 +3103,8 @@
 66.85.129.186/32
 ## Silicon House
 198.15.78.234/24
+## GBD Software as a Service Private Limited Company
+185.203.186.207/22
 ## Packethub S.A.
 213.232.87.230/24
 ## Consiliu Judetean Harghita
