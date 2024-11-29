@@ -2537,6 +2537,8 @@
 173.225.21.50/23
 ## Vidanet Cabletelevision Provider Ltd.
 94.248.146.91/19
+## Ambyre LLC
+85.202.160.156/24
 ## Cisco Systems Ironport Division
 207.54.87.193/32
 ## Li Yan
