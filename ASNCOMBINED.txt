@@ -2038,6 +2038,8 @@
 154.113.8.0/24
 ## Statically Assigned
 196.200.79.0/24
+## Ehinet Srl
+79.98.45.16/21
 ## Swiss Federation represented by FOITT
 162.23.23.176/16
 ## Cloud Host Pte Ltd
