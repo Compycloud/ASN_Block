@@ -1864,6 +1864,8 @@
 86.101.129.155/17
 ## PlusNet plc.
 212.159.5.98/19
+## HostPapa
+204.44.192.94/21
 ## BR.Digital Provider
 186.211.230.18/22
 ## PT Cloud Hosting Indonesia
