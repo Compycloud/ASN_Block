@@ -2348,6 +2348,8 @@
 125.212.218.5/20
 ## ParsPack
 176.120.16.228/24
+## Jordan Data Communications Company LLC
+92.253.127.6/24
 ## Armour Cloud, LLC
 209.250.5.47/24
 ## Zenlayer Inc
