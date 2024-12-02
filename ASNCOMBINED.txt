@@ -4125,6 +4125,7 @@
 ## ONYPHE SAS
 79.137.7.72/17
 ## MarocTelecomASDL
+160.176.77.76/21
 160.177.0.0/21
 ## Ocean Trade Enterprises
 103.76.122.58/24
