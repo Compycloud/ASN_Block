@@ -406,6 +406,8 @@
 18.175.175.158/32
 ## Amazon Data Services Ireland Limited
 209.182.237.105/13
+## Amazon Data Services Sweden
+16.171.194.196/32
 ## Amazon.com, Inc.
 13.52.107.210/32
 54.201.103.89/32
