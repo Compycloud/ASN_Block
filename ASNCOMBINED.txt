@@ -413,6 +413,8 @@
 209.182.237.105/13
 ## Amazon Data Services Sweden
 16.171.194.196/32
+## AWS Asia Pacific (Seoul) Region
+3.34.139.230/15
 ## Amazon.com, Inc.
 13.52.107.210/32
 54.201.103.89/32
