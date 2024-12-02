@@ -10,3 +10,5 @@
 ## The Constant Company, LLC
 64.176.179.58/24
 158.247.215.130/18
+## Hanauer Landstraße 302
+95.179.244.155/20
