@@ -415,6 +415,8 @@
 16.171.194.196/32
 ## AWS Asia Pacific (Seoul) Region
 3.34.139.230/15
+## Amazon Data Services Japan
+35.77.31.156/13
 ## Amazon.com, Inc.
 13.52.107.210/32
 54.201.103.89/32
