@@ -1192,6 +1192,8 @@
 181.92.153.73/15
 ## Telecom Personal Bs As
 186.152.175.32/16
+## CLDIN B.V.
+31.25.98.98/21
 ## Cloud at Cost
 139.64.245.10/24
 ## GVA Burkina Faso
