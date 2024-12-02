@@ -72,3 +72,5 @@
 35.77.31.156/13
 ## Amazon Corporate Services Pty Ltd
 13.236.71.130/14
+## Amazon Web Services, Inc.
+54.240.105.223/24
