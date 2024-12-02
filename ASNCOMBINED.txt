@@ -4615,6 +4615,8 @@
 42.113.27.97/24
 103.35.65.197/24
 118.70.15.19/24
+## Hebergement Serv3r.net inc.
+23.247.253.121/24
 ## THSOLUCIONES
 200.80.10.27/32
 ## Server Hosting Service (NTTPCCommunications,Inc.)
