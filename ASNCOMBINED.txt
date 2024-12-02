@@ -412,6 +412,7 @@
 ## Amazon Data Services Ireland Limited
 209.182.237.105/13
 ## Amazon Data Services Sweden
+16.171.2.165/32
 16.171.194.196/32
 ## AWS Asia Pacific (Seoul) Region
 3.34.139.230/15
