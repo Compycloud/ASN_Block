@@ -2357,6 +2357,8 @@
 ## InMotion Hosting, Inc.
 213.165.248.109/24
 213.165.251.108/24
+## Telecom Malagasy
+102.16.255.246/18
 ## HostHatch Inc
 176.126.86.157/24
 ## Reliance Jio Infocomm Limited
