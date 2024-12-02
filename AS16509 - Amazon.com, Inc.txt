@@ -60,3 +60,5 @@
 3.34.139.230/15
 ## Amazon Data Services Japan
 35.77.31.156/13
+## Amazon Corporate Services Pty Ltd
+13.236.71.130/14
