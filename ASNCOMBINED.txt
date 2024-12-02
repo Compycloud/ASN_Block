@@ -414,6 +414,7 @@
 18.175.175.158/32
 35.177.98.146/32
 ## Amazon Data Services Ireland Limited
+34.245.181.235/13
 34.245.9.143/13
 209.182.237.105/13
 ## Amazon Data Services Sweden
