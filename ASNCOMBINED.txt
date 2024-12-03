@@ -5588,6 +5588,7 @@
 122.187.227.116/19
 ## BT Infrastructure Layer
 194.72.229.89/32
+213.1.214.233/32
 ## Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)
 121.36.47.71/17
 ## InterCloud ltd
