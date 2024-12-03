@@ -630,6 +630,8 @@
 190.113.188.140/24
 ## Vodafone Net Iletisim Hizmetler AS
 31.145.138.124/17
+## AdminVPS OOO
+217.171.146.52/24
 ## webhosting servers
 85.128.143.182/24
 ## 11/F COL Tower, Wharf T&T Square
