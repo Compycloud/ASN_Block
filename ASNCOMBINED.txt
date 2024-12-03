@@ -5291,8 +5291,8 @@
 ## Exabytes Ecommerce Sdn.Bhd.
 137.59.110.109/22
 ## Liquid Web, L.L.C
-# 50.28.98.18
-50.28.96.0/19
+50.28.98.18/19
+207.246.242.250/21
 ## TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
 194.36.87.151/24
 ## Nile Online
