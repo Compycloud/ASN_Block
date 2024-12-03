@@ -4352,6 +4352,8 @@
 216.244.66.196/19
 ## Representative office of AZDIGI Corporation in Da Nang
 103.110.84.40/22
+## Iranscience network Data Center & Storage Network
+62.60.136.215/24
 ## CLOUDI NEXTGEN SL
 217.71.206.190/24
 ## Kar-Tel LLC
