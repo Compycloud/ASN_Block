@@ -533,6 +533,8 @@
 103.220.64.0/22
 ## ServerPoint.com
 64.235.44.5/24
+## Purple IT Inc
+204.197.172.18/24
 ## LeaseWeb Netherlands B.V.
 5.79.109.115/18
 62.212.95.187/19
