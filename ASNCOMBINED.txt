@@ -1664,6 +1664,8 @@
 ## Vocus Retail
 # 211.27.137.178
 211.27.0.0/16
+## DIGI INFO SOL PVT. LTD.
+103.79.171.228/22
 ## Aeza International LTD
 5.42.104.204/23
 5.182.86.168/24
