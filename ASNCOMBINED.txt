@@ -2626,6 +2626,8 @@
 194.1.192.122/24
 ## COLOMBIA TELECOMUNICACIONES S.A. ESP
 186.102.167.59/20
+## Cyberweb Networks Ltda
+191.6.222.32/23
 ## O.M.C. COMPUTERS & COMMUNICATIONS LTD
 103.45.246.42/24
 ## mersin yolu 19 km beyza kesimhane seyhan adana
