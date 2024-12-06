@@ -4675,6 +4675,8 @@
 185.55.240.207/24
 ## Aruba S.p.A. - Shared Hosting and Mail services
 62.149.156.76/19
+## Aruba S.p.A. - Shared Hosting IT1
+31.11.36.126/21
 ## Saudi Telecom Company JSC
 77.90.215.166/20
 175.110.145.205/20
