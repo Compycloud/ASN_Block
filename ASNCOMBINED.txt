@@ -3835,6 +3835,8 @@
 78.128.113.250/24
 ## Beam Telecom Pvt Ltd
 49.206.117.56/22
+## SAKURA Internet Inc.
+133.242.172.108/16
 ## RackBank Datacenters Private Ltd
 43.254.31.139/24
 ## CHINANET FUJIAN PROVINCE NETWORK
