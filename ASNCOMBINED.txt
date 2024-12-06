@@ -1260,6 +1260,8 @@
 ## IONOS Inc.
 74.208.82.207/16
 198.71.62.233/20
+## UK Next Generation Cloud Server (NGCS)
+77.68.17.162/17
 ## O/o DGM BB, NOC BSNL Bangalore
 59.88.13.154/20
 ## Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
