@@ -5790,6 +5790,8 @@
 45.84.89.2/24
 ## Verizon Business
 71.164.83.186/32
+## ALEXHOST SRL
+193.233.203.64/24
 ## Hosting servers and supporting infra
 # 185.7.252.210
 185.7.252.0/23
