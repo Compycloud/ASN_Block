@@ -5271,6 +5271,8 @@
 43.135.129.233/18
 ## DreamScape Networks FZ-LLC
 185.184.155.60/23
+## Domain names registrar REG.RU, Ltd
+176.99.9.19/24
 ## Hoster.KZ
 185.98.5.122/24
 185.100.64.0/24
