@@ -1,0 +1,2 @@
+## AVAST Software s.r.o.
+5.62.56.25/24
