@@ -2125,6 +2125,8 @@
 194.152.206.17/18
 ## Hetzner Online GmbH
 5.78.123.163/24
+## DATALIX
+37.114.46.9/24
 ## www.daticum.com
 94.155.49.99/24
 ## Customer VPS
