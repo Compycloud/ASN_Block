@@ -1216,6 +1216,8 @@
 45.137.201.200/24
 ## OWS Inc
 91.228.168.132/24
+## AVAST Software s.r.o.
+5.62.56.25/24
 ## Alwyzon, a trading name of Hohl IT e.U.
 46.102.156.36/24
 ## Japan Network Information Center
