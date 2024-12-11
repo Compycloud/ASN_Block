@@ -501,6 +501,8 @@
 37.156.144.83/24
 ## Bouygues Telecom Fixe and Mobile Division
 176.147.46.221/32
+## SmartApe OU
+185.130.249.34/22
 ## Mobile Communication Company of Iran PLC
 46.164.87.176/20
 91.133.222.50/20
