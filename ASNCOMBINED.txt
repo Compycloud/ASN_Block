@@ -5480,6 +5480,8 @@
 109.244.0.0/16
 ## Shenzhen Tencent Computer Systems Company Limited
 103.238.16.0/22
+## PointShop
+216.27.18.196/19
 ## Sarps Technologies Pvt. Ltd.
 103.117.212.36/24
 ## Green Floid LLC
