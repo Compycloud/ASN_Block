@@ -1,3 +1,5 @@
+## Neterra Ltd.
+87.120.93.10/24
 ## LLC «NBI»
 93.95.244.245/21
 ## GCI Network Solutions Limited
