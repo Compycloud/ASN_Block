@@ -1276,6 +1276,8 @@
 139.64.245.10/24
 ## GVA Burkina Faso
 102.23.32.181/18
+## Rightel Communication Service Company PJS
+5.134.186.20/22
 ## IONOS SE
 82.223.29.42/16
 108.175.0.165/20
