@@ -795,6 +795,8 @@
 103.233.58.3/23
 ## Scicube Web Hosting Services
 103.11.101.122/24
+## Internet Solutions & Innovations LTD.
+5.181.86.85/24
 ## Noida Network
 103.150.186.0/24
 ## PPTECHNOLOGY LIMITED
