@@ -2,3 +2,5 @@
 205.209.126.238/19
 ## Interserver, Inc
 206.72.195.91/20
+## Razinet Dedicated Servers
+109.205.213.230/24
