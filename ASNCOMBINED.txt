@@ -1220,6 +1220,8 @@
 147.45.247.0/24
 147.45.248.0/24
 147.45.249.0/24
+## Hyperhost LTD
+185.174.173.11/22
 ## CyberCloud Professionals LLC
 66.85.76.98/21
 ## Red Cientifica Peruana
