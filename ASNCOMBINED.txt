@@ -3235,6 +3235,8 @@
 5.8.179.65/24
 ## Mobile TeleSystems JLLC
 134.17.94.149/21
+## Dade Samane Fanava Company (PJS)
+78.157.35.67/24
 ## Kamatera Inc
 185.229.224.230/24
 ## Citytelecom LLC
