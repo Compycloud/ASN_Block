@@ -3149,6 +3149,8 @@
 ## Zhixing Liye (Beijing) communication technology Co., Ltd.
 103.162.10.0/24
 103.162.11.0/24
+## OJSC Rostelecom, Belgorod branch
+82.151.121.23/19
 ## DigitalOcean, LLC
 46.101.50.196/24
 46.101.208.77/24
