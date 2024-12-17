@@ -4750,7 +4750,8 @@
 42.234.47.196/12
 ## Jiangyin Oweb Network Co., Ltd.	
 103.40.192.0/22
-
+## China Unicom Guizhou province network
+58.16.215.241/16
 ## GLOBAL INTERNET SOLUTIONS LLC
 147.45.48.78/24
 ## SendGrid, Inc.
