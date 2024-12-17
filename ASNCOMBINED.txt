@@ -3013,6 +3013,8 @@
 ## Skoali
 103.102.230.3/24
 203.55.81.228/24
+## WDV Egmond Holding BV
+45.8.25.100/23
 ## CV. Rumahweb Indonesia
 203.194.112.42/24
 ## China Unicom Beijing province network
