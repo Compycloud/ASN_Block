@@ -5737,6 +5737,8 @@
 213.1.214.233/32
 ## Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)
 121.36.47.71/17
+## Datacamp Limited
+95.173.222.47/24
 ## InterCloud ltd
 118.67.215.58/24
 103.209.40.0/23
