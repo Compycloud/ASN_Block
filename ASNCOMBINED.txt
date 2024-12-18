@@ -6032,8 +6032,7 @@
 ## GMO Internet Group, Inc.
 133.130.103.36/18
 ## WIIT AG
-# 217.79.178.57
-217.79.176.0/20
+217.79.178.57/32
 ## Digital Value SL
 83.147.18.199/24
 ## Ltd. SPAImpulse
