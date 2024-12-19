@@ -1,2 +1,4 @@
 ## Internet Tehnology Ltd. professional internet services
 81.177.3.44/19
+## Avguro Technologies Ltd. Hosting service provider
+195.161.68.151/16
