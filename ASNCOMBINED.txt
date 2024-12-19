@@ -5563,6 +5563,8 @@
 217.12.210.18/24
 ## Internet Tehnology Ltd. professional internet services
 81.177.3.44/19
+## Avguro Technologies Ltd. Hosting service provider
+195.161.68.151/16
 ## Cloud Innovation Ltd
 45.204.146.91/18
 156.242.126.53/32
