@@ -574,6 +574,8 @@
 187.28.106.30/32
 ## Internet Names For Business Inc.
 66.175.44.36/18
+## Asia Pacific Network Information Centre
+103.73.163.158/22
 ## ZTV CORP LLC
 45.155.207.77/24
 ## CJSC Company ER-Telecom Kazan'
