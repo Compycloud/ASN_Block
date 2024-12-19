@@ -2572,6 +2572,8 @@
 116.110.69.251/21
 125.212.218.5/20
 171.251.27.151/21
+## Cambo Technology Co. Ltd., Internet Service Provider, Phnom Penh, Cambodia
+202.131.82.132/24
 ## ParsPack
 176.120.16.228/24
 ## Jordan Data Communications Company LLC
