@@ -398,6 +398,7 @@
 ## Amazon Data Services Ireland Limited
 34.246.115.156/32
 52.210.124.58/32
+52.212.158.48/32
 ## Amazon Data Services India
 3.7.2.217/15
 13.201.66.211/15
