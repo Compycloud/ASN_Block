@@ -5460,6 +5460,8 @@
 ## ITLDC EU2.SOF Datacenter Network
 # 185.82.219.179
 185.82.216.0/22
+## TELEFÔNICA BRASIL S.A
+177.199.23.98/17
 ## Emirates Integrated Telecommunications Company PJSC (EITC-DU)
 94.204.173.252/19
 ## SERVA ONE LTD
