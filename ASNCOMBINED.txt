@@ -979,6 +979,8 @@
 159.112.249.0/24
 ## Keminet Ltd.
 31.171.153.77/24
+## Toloe Rayaneh Loghman
+2.189.157.227/24
 ## PT. First Media, Tbk.
 111.94.193.166/19
 ## CHINANET Beijing Province Network
