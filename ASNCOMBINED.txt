@@ -6611,6 +6611,8 @@
 103.178.234.0/23
 ## GANDI SAS
 155.133.132.66/20
+## HostDime.com, Inc.
+72.29.74.183/19
 ## Psychz Networks
 108.181.2.33/19
 ## Psychz Networks ZA - Cloud Services
