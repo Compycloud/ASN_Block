@@ -1,5 +1,6 @@
 ## Vietnam Posts and Telecommunications Group
 14.225.210.27/24
+14.225.231.69/24
 ## Representative office in HaNoi of VietServer Services technology company limited
 103.153.78.87/23
 ## Hypernet Vietnam Technology Company Limited
