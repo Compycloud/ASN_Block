@@ -6290,6 +6290,8 @@
 83.147.18.199/24
 ## Brisanet Prestacao De Servicos De Internet Ltda
 206.42.47.107/20
+## Strato Rechenzentrum, Karlsruhe
+85.215.255.24/24
 ## Ltd. SPAImpulse
 77.236.83.168/24
 77.236.94.0/24
