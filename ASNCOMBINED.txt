@@ -3580,6 +3580,8 @@
 198.15.78.234/24
 ## GBD Software as a Service Private Limited Company
 185.203.186.207/22
+## TaDu Joint Stock Company
+103.74.116.72/22
 ## Packethub S.A.
 213.232.87.230/24
 ## Consiliu Judetean Harghita
