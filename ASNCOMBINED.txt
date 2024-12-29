@@ -6152,6 +6152,8 @@
 43.230.202.194/24
 ## CHINANET SHANDONG PROVINCE NETWORK
 182.40.38.5/20
+## Telemach BH d.o.o. Sarajevo
+77.78.226.67/19
 ## Inspici
 45.84.89.2/24
 ## Verizon Business
