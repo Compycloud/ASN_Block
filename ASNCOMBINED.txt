@@ -2474,6 +2474,8 @@
 177.249.10.243/21
 ## ITSPECTRUM-ISP
 103.83.189.130/24
+## Evgenij Rusachenko
+46.8.141.131/24
 ## ViaNetTV Inc
 104.158.16.0/24
 ## H2.NEXUS Frankfurt Network
