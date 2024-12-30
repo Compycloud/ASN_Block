@@ -1,2 +1,4 @@
 ## ProRacks Datacenter Solutions
 199.204.97.18/24
+## DediOutlet LLC
+23.94.89.98/24
