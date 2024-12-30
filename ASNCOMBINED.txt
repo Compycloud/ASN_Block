@@ -249,6 +249,8 @@
 194.55.12.181/22
 202.61.204.0/22
 202.61.233.6/24
+## ANX Holding GmbH
+152.53.133.56/22
 ## Wana Corporate
 197.146.167.73/16
 ## Private Customer - AT&T Internet Services
