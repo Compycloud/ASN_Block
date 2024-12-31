@@ -6746,6 +6746,8 @@
 80.61.124.182/32
 ## HOSTEUR SAS
 217.16.8.101/20
+## Vinh Railway Signalling - Telecom Joint Stock Company
+103.154.176.201/23
 ## A2 Hosting, Inc.
 190.92.151.24/22
 ## DataCamp s.r.o.
