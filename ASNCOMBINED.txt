@@ -4221,6 +4221,7 @@
 91.229.23.83/24
 ## Pakistan Telecommuication company limited
 39.39.21.37/17
+39.50.141.229/19
 39.53.197.50/18
 59.103.239.74/16
 ## It Hosting Group
