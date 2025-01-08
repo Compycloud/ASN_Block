@@ -837,6 +837,8 @@
 2.57.122.189/24
 ## Pacifico Cable SPA.
 190.114.32.12/21
+## Site BV
+80.249.132.65/24
 ## Branch of Long Van System Solution JSC - Hanoi
 45.119.214.185/22
 ## Citytelecom LLC
