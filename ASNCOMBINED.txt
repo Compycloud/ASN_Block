@@ -393,6 +393,11 @@
 37.128.148.215/21
 ## S.C. HOSTMAZE INC SRL-D
 89.32.41.95/24
+## NETPROTECT SRL
+85.204.116.0/24
+86.104.194.0/24
+89.32.41.0/24
+89.40.73.0/24
 ## Hetzner Online GmbH
 5.78.123.163/24
 ## Alexandrion Saber Distilleries 1789 S.R.L.
