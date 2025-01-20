@@ -3585,6 +3585,8 @@
 109.248.11.184/23
 ## Etihad Jawraa Company for communication and information technology
 185.133.181.24/24
+## OOO IT-Grad
+5.200.52.37/24
 ## netcup GmbH
 46.38.249.148/22
 89.58.48.135/22
