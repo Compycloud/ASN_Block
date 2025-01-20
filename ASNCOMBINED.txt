@@ -391,6 +391,8 @@
 185.107.89.35/22
 ## Hostnet BV Network Operations
 37.128.148.215/21
+## S.C. HOSTMAZE INC SRL-D
+89.32.41.95/24
 ## Hetzner Online GmbH
 5.78.123.163/24
 ## Alexandrion Saber Distilleries 1789 S.R.L.
