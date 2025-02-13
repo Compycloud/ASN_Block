@@ -3894,6 +3894,8 @@
 ## Hosting servers and supporting infra
 # 185.7.252.210
 185.7.252.0/23
+## XSERVER Inc.
+162.43.121.161/17
 ## Simply Transit Ltd
 213.229.94.54/18
 ## ITALHUB Srl
