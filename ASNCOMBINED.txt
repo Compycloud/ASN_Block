@@ -2193,6 +2193,8 @@
 15.168.135.141/16
 ## //CRASH Verwaltungs GmbH trading as CleverReach GmbH & Co. KG
 194.42.96.17/24
+## Amazon Data Services Canada
+3.97.68.18/15
 ## CLOUDI NEXTGEN SL
 217.71.206.190/24
 ## Telecom Armenia OJSC
