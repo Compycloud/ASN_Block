@@ -5228,6 +5228,8 @@
 5.134.186.20/22
 ## Hebergement Serv3r.net inc.
 23.247.253.121/24
+## ODS ONLINE DATA SOLUTION JOINT STOCK COMPANY
+103.169.34.188/23
 ## Vinh Railway Signalling - Telecom Joint Stock Company
 103.154.176.201/23
 ## Host Duplex, LLC
