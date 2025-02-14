@@ -11,3 +11,4 @@
 195.250.23.30/23
 ## Representative office No. 2 of VietServer Services technology Ltd.
 103.156.90.212/23
+103.156.93.222/23
