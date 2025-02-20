@@ -5481,6 +5481,8 @@
 52.130.96.0/20
 52.131.0.0/17
 52.131.128.0/17
+## Husky Networks ipv4 Infra 3
+195.234.95.0/24
 ## Private Customer - AT&T Internet Services
 68.78.37.77/32
 ## DigitalOcean, LLC
