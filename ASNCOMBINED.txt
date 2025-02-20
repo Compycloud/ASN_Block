@@ -6532,6 +6532,7 @@
 103.28.204.0/22
 ## China Unicom Heilongjiang province network	
 103.3.100.0/22
+125.211.0.0/16
 ## UNICOM ZheJiang Province Network	
 103.3.112.0/22
 ## UNICOM yunnan Province Network	
