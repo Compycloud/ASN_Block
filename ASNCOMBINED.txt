@@ -5239,6 +5239,8 @@
 93.174.93.12/24
 ## HostUS Solutions LLC
 185.242.226.46/24
+## Gtd Internet S.A.
+152.230.124.68/16
 ## Rightel Communication Service Company PJS
 5.134.186.20/22
 ## Hebergement Serv3r.net inc.
