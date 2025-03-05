@@ -689,6 +689,8 @@
 102.165.48.0/24
 ## GEOBIS INTERNATIONAL GEOGRAPHIC BUSINESS INTELIGENCE SOLUTIONS S.A
 186.155.227.234/21
+## Beijing Volcano Engine Technology Co., Ltd.
+101.126.22.66/21
 ## TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
 194.36.87.151/24
 ## Unified Layer
