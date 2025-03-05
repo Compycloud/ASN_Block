@@ -5678,6 +5678,8 @@
 176.223.112.0/24
 176.223.113.0/24
 46.102.152.0/24
+## Vodafone Italia S.p.A.
+188.219.178.107/18
 ## Cambo Technology Co. Ltd., Internet Service Provider, Phnom Penh, Cambodia
 202.131.82.132/24
 ## InterCloud ltd
