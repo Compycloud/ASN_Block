@@ -6908,6 +6908,8 @@
 103.238.16.0/22
 ## Hetzner Online GmbH
 5.161.213.201/24
+## Informacines sistemos ir technologijos, UAB
+88.119.174.116/24
 ## Uplink LLC
 109.248.236.150/24
 ## HongKong Virtual Internal Server Company Limited
