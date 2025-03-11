@@ -1,3 +1,5 @@
 ## Shanghai Data Solution Co., Ltd.
 61.129.155.206/17
 120.136.165.86/21
+## CHINANET Shanghai province network
+61.173.21.93/17
