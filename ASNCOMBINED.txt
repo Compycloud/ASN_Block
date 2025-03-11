@@ -5154,6 +5154,7 @@
 ## FiberXpress BV
 89.248.163.217/24
 93.174.93.12/24
+94.102.63.0/24
 ## HostUS Solutions LLC
 185.242.226.46/24
 ## Bolivian Academic Network
