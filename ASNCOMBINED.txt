@@ -693,6 +693,8 @@
 186.155.227.234/21
 ## Beijing Volcano Engine Technology Co., Ltd.
 101.126.22.66/21
+## Cloud Hosting Solutions, Limited.
+176.126.103.7/24
 ## TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
 194.36.87.151/24
 ## Unified Layer
