@@ -4056,6 +4056,8 @@
 185.15.121.108/24
 ## DSS Serviços de Tecnologia da Informação
 187.28.106.30/32
+## Salesforce.com, Inc.
+136.147.176.89/20
 ## SH-Customer188
 188.132.148.7/24
 ## Vocus Retail
