@@ -7,3 +7,5 @@
 89.38.224.211/24
 ## M247 LTD London Infrastructure
 146.70.119.60/24
+## Hertza LLC trading as ZeroBounce
+185.182.240.35/22
