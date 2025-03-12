@@ -4547,6 +4547,8 @@
 192.153.57.67/24
 193.149.129.163/24
 206.188.196.130/24
+## China Mobile Communications Corporation
+117.149.14.50/19
 ## Sefroyek Pardaz Engineering PJSC
 185.128.136.0/22
 185.170.8.0/24
