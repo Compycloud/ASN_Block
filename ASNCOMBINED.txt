@@ -4894,6 +4894,8 @@
 89.38.224.211/24
 ## M247 LTD London Infrastructure
 146.70.119.60/24
+## Hertza LLC trading as ZeroBounce
+185.182.240.35/22
 ## PSERVERS Enterprise Network
 185.58.207.240/24
 185.94.167.49/24
