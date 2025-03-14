@@ -4,3 +4,5 @@
 95.71.198.207/18
 ## OJSC Rostelecom, Orel branch
 109.61.248.154/18
+## Rostelecom
+95.68.184.88/17
