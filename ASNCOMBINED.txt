@@ -6133,6 +6133,8 @@
 193.31.6.0/24
 ## Server Hosting
 194.169.175.0/24
+## Proofpoint, Inc.
+148.163.135.67/24
 ## ZTV CORP LLC
 45.155.207.77/24
 ## 102 Aarti Chambers,
