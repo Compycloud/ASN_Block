@@ -5499,6 +5499,8 @@
 109.61.248.154/18
 ## Rostelecom
 95.68.184.88/17
+## OJSC Rostelecom, Belgorod branch
+95.71.82.181/21
 ## SmartApe OU
 185.130.249.34/22
 ## Datacamp Limited
