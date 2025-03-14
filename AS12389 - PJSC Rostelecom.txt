@@ -2,3 +2,5 @@
 93.120.240.202/18
 ## OJSC VolgaTelecom
 95.71.198.207/18
+## OJSC Rostelecom, Orel branch
+109.61.248.154/18
