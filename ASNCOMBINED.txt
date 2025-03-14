@@ -4305,6 +4305,7 @@
 ## Spotler Nederland B.V.
 46.31.48.0/21
 ## Telecom Argentina S.A.
+24.232.0.196/17
 152.169.48.131/15
 181.30.230.254/15
 ## Apolo -Gold-Telecom-Per
