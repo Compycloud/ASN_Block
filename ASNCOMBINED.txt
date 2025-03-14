@@ -4655,6 +4655,8 @@
 86.104.194.0/24
 89.32.41.0/24
 89.40.73.0/24
+## Axxess Networks
+156.155.253.193/24
 ## Simply Transit Ltd
 213.229.94.54/18
 ## China Unicom Beijing province network
