@@ -1184,6 +1184,12 @@
 87.120.93.10/24
 ## SKYNET NETWORK LTD
 194.0.234.36/24
+## Atis Omran Sevin PSJ
+ 194.0.234.0/24
+## Limited Network LTD
+45.142.193.0/24
+## REYNLOADS JONATHAN
+87.120.93.0/24
 ## Strong Technology, LLC.
 216.131.77.250/24
 ## Bratislava, Slovakia
