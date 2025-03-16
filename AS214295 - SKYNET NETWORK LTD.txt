@@ -1,2 +1,4 @@
 ## Neterra Ltd.
 87.120.93.10/24
+## SKYNET NETWORK LTD
+194.0.234.36/24
