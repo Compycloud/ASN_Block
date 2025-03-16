@@ -1182,6 +1182,8 @@
 120.138.21.14/20
 ## Neterra Ltd.
 87.120.93.10/24
+## SKYNET NETWORK LTD
+194.0.234.36/24
 ## Strong Technology, LLC.
 216.131.77.250/24
 ## Bratislava, Slovakia
