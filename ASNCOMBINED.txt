@@ -3386,6 +3386,7 @@
 ## Worldcall Telecom Ltd
 111.88.45.113/24
 111.88.53.144/24
+111.88.57.218/24
 ## Pakistan Telecommuication company limited
 39.34.136.209/24
 ## Psychz Networks
