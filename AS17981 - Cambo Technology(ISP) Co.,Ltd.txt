@@ -1,2 +1,3 @@
 ## Cambo Technology Co. Ltd., Internet Service Provider, Phnom Penh, Cambodia
 202.131.82.132/24
+202.131.82.186/24
