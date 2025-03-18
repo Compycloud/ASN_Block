@@ -5559,6 +5559,8 @@
 198.54.117.0/24
 ## Karolio IT paslaugos, UAB
 45.157.183.37/22
+## Link Egypt (Link.NET)
+45.243.252.236/22
 ## PJSC Rostelecom
 93.120.240.202/18
 ## OJSC VolgaTelecom
