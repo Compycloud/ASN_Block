@@ -1,2 +1,4 @@
 ## Lansol GmbH
 176.95.46.124/32
+## Vodafone GmbH
+92.212.9.243/15
