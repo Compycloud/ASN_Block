@@ -2985,6 +2985,8 @@
 207.241.196.230/24
 ## AdminVPS OOO
 217.171.146.52/24
+## Señal Nacional S.A.
+45.173.218.172/24
 ## Husky Networks ipv4 Infra 3
 195.234.95.0/24
 ## Mobile TeleSystems JLLC
