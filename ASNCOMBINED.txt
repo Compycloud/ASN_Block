@@ -3771,6 +3771,8 @@
 77.32.148.101/22
 ## LLC «NBI»
 93.95.244.245/21
+## Telekomi i Kosovës
+178.175.23.55/18
 ## Japan Network Information Center
 133.94.1.4/32
 ## Saudi Telecom Company JSC
