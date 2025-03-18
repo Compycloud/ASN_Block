@@ -901,6 +901,8 @@
 5.112.6.190/20
 ## PlusWeb Sunucu Internet Hizmetleri Tic Ltd. Sti
 194.1.192.122/24
+## Ote SA (Hellenic Telecommunications Organisation)
+2.85.150.77/16
 ## Global Technology Co., Ltd.
 103.231.95.43/24
 ## MainOne
