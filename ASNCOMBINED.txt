@@ -1658,6 +1658,7 @@
 ## ViaNetTV Inc
 104.158.16.0/24
 ## TELEFONICA DE ESPANA S.A.U.
+2.136.102.117/16
 2.139.250.38/16
 81.43.153.184/16
 ## Emirates Integrated Telecommunications Company PJSC (EITC-DU)
