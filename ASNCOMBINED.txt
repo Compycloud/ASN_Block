@@ -3519,6 +3519,7 @@
 ## Hostnet BV Network Operations
 37.128.148.215/21
 ## Pacifico Cable SPA.
+179.60.65.169/21
 190.114.32.12/21
 ## FS Veri Merkezi Internet Teknolojileri Limited Sirketi
 78.111.98.0/24
