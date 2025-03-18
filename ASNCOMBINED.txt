@@ -5771,6 +5771,8 @@
 156.70.4.186/23
 ## Brander Group Inc.
 148.135.52.42/17
+## Net Uno, C.A.
+190.153.113.237/24
 ## Vodafone Portugal
 89.115.243.186/15
 ## Consiliu Judetean Harghita
