@@ -3621,6 +3621,8 @@
 195.90.215.253/18
 ## Lansol GmbH
 176.95.46.124/32
+## Vodafone GmbH
+92.212.9.243/15
 ## XePhion(NTT-ME Corporation)
 58.98.203.235/18
 ## Hosteons.com VPS
