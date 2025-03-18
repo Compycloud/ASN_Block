@@ -890,6 +890,8 @@
 116.202.14.127/16
 ## Vinh Railway Signalling - Telecom Joint Stock Company
 103.154.176.201/23
+## ASIACELL COMMUNICATIONS PJSC
+89.46.204.109/24
 ## Perfecto Consultoria E Apoio Administrativo LTDA
 95.214.27.33/24
 178.215.238.131/24
