@@ -686,6 +686,8 @@
 37.18.80.0/24
 # Sub allocation LeaderTelecomLTD
 141.101.203.0/24
+## ViaNetTV Inc
+104.158.196.140/20
 ## Internet Utilities Europe and Asia Limited
 # 191.96.150.90
 191.96.150.0/24
@@ -4307,6 +4309,8 @@
 ## Yunduan Interchange (Beijing) Computer Technology Co., Ltd.
 103.139.212.0/24
 103.139.213.0/24
+## Multicom
+190.113.106.69/24
 ## OOO IT-Grad
 5.200.52.37/24
 ## GTELCOM LLC
