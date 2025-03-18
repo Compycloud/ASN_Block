@@ -3362,6 +3362,7 @@
 ## America Movil Peru S.A.C.
 179.6.46.82/24
 179.6.166.111/23
+179.7.180.126/24
 ## Domain names registrar REG.RU, Ltd
 176.99.9.19/24
 ## System-Net Sas
