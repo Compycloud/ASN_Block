@@ -1378,6 +1378,7 @@
 ## BT Infrastructure Layer
 194.72.229.89/32
 213.1.214.233/32
+217.42.122.193/12
 ## Li Yan
 72.9.145.44/21
 ## BTCL Info-bahan-Porject
