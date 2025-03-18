@@ -1,2 +1,3 @@
 ## Telefonica de Argentina
+179.36.197.93/14
 191.85.58.28/15
