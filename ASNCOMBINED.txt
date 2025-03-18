@@ -3403,6 +3403,8 @@
 203.210.239.40/20
 ## Totdata Data and Digital Services Company Limited
 160.191.53.39/23
+## V.le Italia, 26
+158.47.226.47/20
 ## FBW NETWORKS SAS
 37.44.238.68/24
 ## Al. Jerozolimskie 98
