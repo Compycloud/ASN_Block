@@ -5618,6 +5618,8 @@
 213.152.161.0/24
 ## Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)
 121.36.47.71/17
+## MMM E G TELECOMUNICACOES LTDA - ME
+131.108.172.207/22
 ## RnR IX NETWORK
 61.245.10.209/24
 ## Guangzhou-YangChengTong-Co-Ltd, Guangzhou, Guangdong province
