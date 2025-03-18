@@ -1678,6 +1678,7 @@
 ## CJSC KRAUS-M
 37.18.87.8/24
 ## Pakistan Telecommuication company limited
+39.33.64.4/17
 39.39.21.37/17
 39.50.141.229/19
 39.53.197.50/18
