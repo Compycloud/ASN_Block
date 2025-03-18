@@ -1,4 +1,5 @@
 ## Vietnam Posts and Telecommunications Group
 14.187.17.37/20
+14.229.103.125/20
 ## Totdata Data and Digital Services Company Limited
 160.191.53.39/23
