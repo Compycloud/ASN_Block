@@ -8,3 +8,5 @@
 95.68.184.88/17
 ## OJSC Rostelecom, Belgorod branch
 95.71.82.181/21
+## Dynamic distribution IP's for broadband services
+90.150.249.108/20
