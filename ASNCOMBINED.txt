@@ -3794,6 +3794,8 @@
 181.208.254.0/24
 ## Sendinblue SAS
 77.32.148.101/22
+## Orange Polska Spolka Akcyjna
+83.16.76.169/13
 ## Hosting Operator eServer.ru Ltd.
 178.218.221.33/23
 ## LLC «NBI»
