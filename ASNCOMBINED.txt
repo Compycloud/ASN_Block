@@ -4103,6 +4103,8 @@
 ## RCS & RDS Business
 81.196.211.199/16
 86.120.102.251/13
+## AS36947 - Telecom Algeria 
+154.242.24.99/16
 ## Limited Network LTD
 185.93.89.118/24
 ## New Hosting Technologies LLC
