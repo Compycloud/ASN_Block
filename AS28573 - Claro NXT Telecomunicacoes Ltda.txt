@@ -1,2 +1,3 @@
 ## Claro NXT Telecomunicacoes Ltda
+186.221.63.13/16
 187.106.100.60/19
