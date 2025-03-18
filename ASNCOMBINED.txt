@@ -2042,6 +2042,7 @@
 213.199.50.113/20
 ## Safaricom Limited
 41.90.69.58/21
+105.160.22.130/16
 105.163.2.164/24
 ## Sodium Internet Services Client VPS
 185.14.203.200/24
