@@ -3943,6 +3943,8 @@
 185.107.113.241/32
 ## Hostnet BV Network
 91.184.13.4/32
+## Ukrainian Telecommunication Group LLC
+31.43.37.140/24
 ## Bouygues Telecom Fixe and Mobile Division
 176.147.46.221/32
 ## Hurricane Electric LLC
