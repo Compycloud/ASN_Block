@@ -895,6 +895,8 @@
 178.215.238.131/24
 ## A2 Hosting, Inc.
 190.92.151.24/22
+## Iran Cell Service and Communication Company
+5.112.6.190/20
 ## PlusWeb Sunucu Internet Hizmetleri Tic Ltd. Sti
 194.1.192.122/24
 ## Global Technology Co., Ltd.
