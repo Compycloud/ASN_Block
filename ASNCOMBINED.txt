@@ -1991,6 +1991,8 @@
 66.187.5.0/24
 66.187.6.0/24
 66.187.7.0/24
+## BAS NETWORK
+103.152.107.249/24
 ## Servers Australia Pty. Ltd
 117.120.12.90/21
 ## Digital IT Consulting SRL
