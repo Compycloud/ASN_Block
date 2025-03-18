@@ -5310,6 +5310,7 @@
 ## HostUS Solutions LLC
 185.242.226.46/24
 ## Claro NXT Telecomunicacoes Ltda
+186.221.63.13/16
 187.106.100.60/19
 ## Bolivian Academic Network
 167.157.0.0/16	
