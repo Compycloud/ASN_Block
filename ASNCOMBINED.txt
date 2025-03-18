@@ -1896,6 +1896,8 @@
 ## Representative office No. 2 of VietServer Services technology Ltd.
 103.156.90.212/23
 103.156.93.222/23
+## Telefonica de Argentina
+191.85.58.28/15
 ## Telemach BH d.o.o. Sarajevo
 77.78.226.67/19
 ## Proofpoint, Inc.
