@@ -6459,6 +6459,8 @@
 64.188.20.109/23
 ## MEVSPACE sp. z o.o.
 195.3.223.108/23
+## Pace Telecom and Brodcasting Private Limited
+103.19.49.37/24
 ## GCI Network Solutions Limited
 91.108.125.58/22
 92.112.194.205/22
