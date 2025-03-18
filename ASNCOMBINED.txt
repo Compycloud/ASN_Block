@@ -1672,6 +1672,7 @@
 2.136.102.117/16
 2.139.250.38/16
 81.43.153.184/16
+83.57.228.48/16
 ## Emirates Integrated Telecommunications Company PJSC (EITC-DU)
 94.204.173.252/19
 ## CJSC KRAUS-M
