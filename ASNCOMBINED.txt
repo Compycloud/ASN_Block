@@ -656,6 +656,8 @@
 217.60.224.0/23
 ## Vidanet Cabletelevision Provider Ltd.
 94.248.146.91/19
+## Compuweb Communications Services Infrastructure
+46.17.90.180/21
 ## GLOBAL CONNECTIVITY SOLUTIONS LLP
 31.129.22.98/24
 45.95.233.137/24
