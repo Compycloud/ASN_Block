@@ -1782,6 +1782,8 @@
 37.156.144.83/24
 ## Google Fiber Inc.
 136.38.237.72/20
+## ISP
+213.212.240.247/20
 ## MEGA-II IDC
 121.127.232.52/24
 ## Asia Pacific Network Information Centre
