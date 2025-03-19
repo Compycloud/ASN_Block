@@ -4036,6 +4036,8 @@
 160.176.77.76/21
 160.177.0.0/21
 160.178.210.164/21
+## ADSL_Maroc_telecom
+196.89.140.156/21
 ## MacStadium, Inc.
 208.52.168.21/24
 ## Group One WH20 LEJ Webhosting 2.0 Leipzig
