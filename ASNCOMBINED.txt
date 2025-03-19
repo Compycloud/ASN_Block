@@ -3201,6 +3201,7 @@
 103.225.20.0/22
 ## Hrvatski Telekom d.d.
 194.152.206.17/18
+195.29.150.14/18
 ## Mailgun Technologies Inc
 198.61.254.50/24
 ## WiCAM Corporation, LTD
