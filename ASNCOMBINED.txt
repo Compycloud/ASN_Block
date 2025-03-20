@@ -2538,6 +2538,8 @@
 62.60.230.0/24
 ## Obhost LLC
 62.60.231.0/24
+## VAST WEB INDIA PRIVATE LIMITED
+157.20.51.41/24
 ## HostHatch Inc
 176.126.86.157/24
 ## Web Werks India Pvt. Ltd
