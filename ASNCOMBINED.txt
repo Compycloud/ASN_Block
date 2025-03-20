@@ -2517,6 +2517,8 @@
 ## University of California - Office of the President
 192.35.221.0/24
 192.35.226.0/24
+## Sprious LLC
+136.0.90.230/24
 ## Euro Crypt EOOD
 93.152.220.246/24
 ## Nile Online
