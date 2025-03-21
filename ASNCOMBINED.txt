@@ -6186,6 +6186,8 @@
 79.110.62.145/24
 ## THSOLUCIONES
 200.80.10.27/32
+## Aliyun Computing Co., LTD
+123.57.38.90/16
 ## Alibaba Cloud (Singapore) Private Limited
 8.218.30.127/17
 8.219.24.164/17
