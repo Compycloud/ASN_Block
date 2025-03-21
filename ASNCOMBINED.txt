@@ -1718,6 +1718,7 @@
 ## STRICTLY CLOUD
 104.168.15.4/24
 ## WindowsVPS.Host
+107.173.177.158/24
 192.3.96.70/24
 ## Chunghwa Telecom Co.,Ltd.
 59.120.163.71/16
