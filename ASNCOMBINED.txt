@@ -6541,6 +6541,8 @@
 217.71.206.190/24
 ## Web4ce, s.r.o.
 93.190.49.83/21
+## Kyivstar GSM
+5.248.91.21/16
 ## nuxt.cloud hosting provider
 212.113.107.32/24
 ## QuadraNet Enterprises LLC
