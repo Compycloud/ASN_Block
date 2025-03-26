@@ -5914,6 +5914,8 @@
 37.114.46.9/24
 ## Cyberweb Networks Ltda
 191.6.222.32/23
+## Metro Ethernet Network
+111.119.167.31/24
 ## Private Layer INC
 31.7.56.0/21
 46.19.143.66/21
