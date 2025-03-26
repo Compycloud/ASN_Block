@@ -4438,6 +4438,8 @@
 185.199.223.44/22
 ## Cablemas Telecomunicaciones SA de CV
 187.253.204.193/24
+## Ministry of Education - EMISC
+106.0.128.210/18
 ## Kprohost
 94.141.120.207/24
 154.203.197.123/24
