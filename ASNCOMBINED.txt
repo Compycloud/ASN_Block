@@ -2372,6 +2372,8 @@
 109.62.252.0/24
 ## MRSK-1
 109.62.254.0/24
+## SONATEL Societe Nationale Des Telecommunications Du Senegal
+41.82.98.162/19
 ## WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
 200.125.171.156/24
 ## Mobile Communication Company of Iran PLC
