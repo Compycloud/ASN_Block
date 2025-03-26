@@ -3716,6 +3716,8 @@
 148.72.207.110/23
 148.72.214.194/24
 208.109.173.103/24
+## Imran Zahir Khan T/A Sky View Online Service
+103.200.38.241/24
 ## Sky Telecom State Company
 141.164.107.186/24
 ## ITSPECTRUM-ISP
