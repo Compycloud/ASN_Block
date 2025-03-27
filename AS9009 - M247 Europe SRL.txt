@@ -18,3 +18,5 @@
 77.36.94.84/22
 ## SMART-VALIDATION
 77.36.14.27/21
+## Global Telecom Group LLC
+52.144.60.61/24
