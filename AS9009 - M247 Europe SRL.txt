@@ -25,3 +25,5 @@
 52.144.60.61/24
 ## Think Huge New York
 77.36.48.144/22
+## Real Telco Singapore
+77.36.96.142/20
