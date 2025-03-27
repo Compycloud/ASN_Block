@@ -5104,6 +5104,8 @@
 77.36.48.144/22
 ## Real Telco Singapore
 77.36.96.142/20
+## ZeroBounce
+64.43.217.205/19
 ## PSERVERS Enterprise Network
 185.58.207.240/24
 185.94.167.49/24
