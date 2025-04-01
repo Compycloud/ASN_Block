@@ -2925,6 +2925,7 @@
 194.42.96.17/24
 ## Amazon Data Services Canada
 3.97.68.18/15
+35.183.159.226/15
 ## LLC DZHIBIEN HOST
 45.8.124.15/24
 ## Jordan Data Communications Company LLC
