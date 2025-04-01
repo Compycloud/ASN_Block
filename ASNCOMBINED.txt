@@ -4480,6 +4480,8 @@
 191.96.207.105/24
 ## GOhost.KZ
 188.130.251.114/24
+## Bucklog SARL
+154.83.103.12/24
 ## CommuniGator Ltd
 37.221.217.236/21
 ## Spotler Limited
