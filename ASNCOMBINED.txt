@@ -1685,6 +1685,7 @@
 ## PT Lentera Global Solusi
 103.191.63.205/24
 ## ALEXHOST SRL
+194.110.247.110/24
 193.233.203.64/24
 ## ITLDC EU2.SOF Datacenter Network
 # 185.82.219.179
