@@ -4999,6 +4999,8 @@
 ## Comcast IP Services, L.L.C.
 67.181.82.18/11
 73.174.242.5/32
+## Comcast Cable Communications, LLC
+50.185.201.120/9
 ## ARLINK S.A.
 190.113.188.140/24
 201.190.238.3/24
