@@ -1,3 +1,5 @@
 ## Comcast IP Services, L.L.C.
 67.181.82.18/11
 73.174.242.5/32
+## Comcast Cable Communications, LLC
+50.185.201.120/9
