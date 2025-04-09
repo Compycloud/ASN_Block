@@ -3113,6 +3113,8 @@
 206.72.195.91/20
 ## Razinet Dedicated Servers
 109.205.213.230/24
+## Inside Network LTD
+45.151.99.230/24
 ## DIGI INFO SOL PVT. LTD.
 103.79.171.228/22
 ## Heinlein-Support GmbH 
