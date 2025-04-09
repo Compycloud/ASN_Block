@@ -3881,6 +3881,8 @@
 ## Saudi Telecom Company JSC
 77.90.215.166/20
 175.110.145.205/20
+## New Era Publications International ApS
+194.255.110.8/16
 ## Gtd Internet S.A.
 152.230.124.68/16
 ## M Nets SAL
