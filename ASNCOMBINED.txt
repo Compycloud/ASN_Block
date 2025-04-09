@@ -2393,6 +2393,8 @@
 41.82.98.162/19
 ## WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
 200.125.171.156/24
+## World4You.com Internet Services GmbH
+81.19.145.23/20
 ## Mobile Communication Company of Iran PLC
 46.164.87.176/20
 91.133.222.50/20
