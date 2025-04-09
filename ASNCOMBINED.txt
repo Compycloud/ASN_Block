@@ -3620,6 +3620,8 @@
 ## HZ Hosting Ltd
 185.104.194.250/24
 98.142.254.79/24
+## Deutsche Telekom AG
+80.153.194.148/14
 ## Customer VPS
 185.107.89.35/22
 ## Hostnet BV Network Operations
