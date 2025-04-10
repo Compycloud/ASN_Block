@@ -3075,6 +3075,8 @@
 217.171.146.52/24
 ## HQSERV NETWORKS LTD
 185.191.206.78/24
+## Societatea Romana de Televiziune
+193.186.33.201/24
 ## Señal Nacional S.A.
 45.173.218.172/24
 ## Husky Networks ipv4 Infra 3
