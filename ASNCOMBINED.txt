@@ -3737,6 +3737,8 @@
 209.212.146.129/32
 ## VPS and Shared Hosting
 5.188.206.54/24
+## Triple T Broadband Public Company Limited
+171.5.161.169/17
 ## HOSTGLOBAL.PLUS LTD
 78.153.140.207/24
 ## Openland scape Company Limited
