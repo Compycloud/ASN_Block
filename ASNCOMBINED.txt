@@ -3735,6 +3735,8 @@
 209.212.146.129/32
 ## VPS and Shared Hosting
 5.188.206.54/24
+## HOSTGLOBAL.PLUS LTD
+78.153.140.207/24
 ## Openland scape Company Limited
 203.154.91.13/16
 ## SUD TELECOM SOLUTIONS
