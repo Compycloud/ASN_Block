@@ -5643,6 +5643,8 @@
 103.173.154.59/24
 ## MOC LAM TRADING AND SERVICES JOINT STOCK COMPANY
 103.12.76.48/24
+## Allnet Broadband Network Pvt Ltd
+103.69.20.111/24
 ## Swiss Federation represented by FOITT
 162.23.23.176/16
 ## Matthew Russell
