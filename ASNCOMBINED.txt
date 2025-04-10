@@ -4528,6 +4528,7 @@
 ## Telecom Personal Bs As
 186.152.175.32/16
 ## Hivelocity LLC
+66.232.100.170/19
 149.255.35.26/24
 ## Strasmore, Inc.
 209.182.237.105/24
