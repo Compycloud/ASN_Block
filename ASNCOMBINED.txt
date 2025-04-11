@@ -3492,6 +3492,8 @@
 185.127.94.96/24
 ## Proofpoint, Inc.
 185.183.30.197/24
+## MAXNET TELECOM, LTD
+5.58.33.187/19
 ## Vietnam Posts and Telecommunications Group
 14.187.17.37/20
 14.229.103.125/20
