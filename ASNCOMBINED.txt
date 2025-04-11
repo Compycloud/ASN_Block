@@ -3936,6 +3936,8 @@
 221.156.126.1/13
 ## Kylos sp. z o.o.
 193.107.89.0/24
+## Aiyun (HK) Network Technology Limited
+2.58.87.221/24
 ## Colombia Móvil
 179.15.76.175/14
 ## UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
