@@ -5764,6 +5764,8 @@
 190.124.140.139/24
 ## TBC
 123.110.70.235/22
+## Dora Telekomunikasyon Hizmetleri A.S.
+46.20.146.41/24
 ## Link Egypt (Link.NET)
 41.196.200.158/23
 45.243.252.236/22
