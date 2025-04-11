@@ -5165,6 +5165,8 @@
 209.128.119.146/19
 ## Keminet Ltd.
 31.171.153.77/24
+## Atlantica Video Cable S.A.
+190.122.144.23/24
 ## MekongNet, Internet Service Provider (ISP), Internet Exchange Provider (IXP) and Internet Data Exchange Center (IDX)
 116.212.135.137/24
 203.176.129.202/24
