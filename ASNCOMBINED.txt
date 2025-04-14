@@ -4566,6 +4566,8 @@
 103.55.243.127/24
 ## PDAM SURYA SEMBADA KOTA SURABAYA
 103.83.100.34/23
+## BYTEPLUS
+45.78.210.213/21
 ## China Mobile Communications Corporation
 117.186.238.82/16
 ## China Mobile Communications Corporation117.131.0.0/17
