@@ -5998,6 +5998,8 @@
 189.90.118.105/24
 ## Wowrack.com
 216.244.66.196/19
+## China Mobile Communications Corporation
+183.237.70.202/16
 ## O.M.C. COMPUTERS & COMMUNICATIONS LTD
 185.237.13.8/24
 ## Asia Pacific Network Information Centre
