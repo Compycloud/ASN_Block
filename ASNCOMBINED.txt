@@ -5661,6 +5661,8 @@
 103.12.76.48/24
 ## Allnet Broadband Network Pvt Ltd
 103.69.20.111/24
+## CJSC ER-Telecom Holding Saint-Petersburg branch country: RU
+94.247.241.70/21
 ## Swiss Federation represented by FOITT
 162.23.23.176/16
 ## Matthew Russell
