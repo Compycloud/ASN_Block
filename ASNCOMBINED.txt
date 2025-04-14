@@ -7235,6 +7235,8 @@
 147.45.249.0/24
 ## Representative office of AZDIGI Corporation in Da Nang
 103.110.84.40/22
+## PrivateSystems Networks GA
+207.7.84.16/21
 ## GMO Internet Group, Inc.
 133.130.103.36/18
 ## Tencent cloud computing (Beijing) Co., Ltd.
