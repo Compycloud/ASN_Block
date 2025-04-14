@@ -1,2 +1,3 @@
 ## internet-security-Zhongguanchun
 196.251.92.77/24
+196.251.93.2/24
