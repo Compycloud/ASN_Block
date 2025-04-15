@@ -1,2 +1,4 @@
 ## IROKO Networks Corporation
 45.137.212.62/24
+## GTELCOM LLC
+213.108.199.92/24
