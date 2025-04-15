@@ -437,6 +437,8 @@
 79.98.45.16/21
 ## ??? Alkor and Co
 5.8.179.65/24
+## Virtual Systems LLC
+195.66.210.177/24
 ## Combell Network
 178.208.39.140/19
 ## GANDI SAS
