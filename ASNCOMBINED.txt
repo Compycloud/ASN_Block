@@ -4829,6 +4829,8 @@
 188.212.97.0/24
 ## Tehran - Pardis - ParkFanavri Pardis +98 2128421544
 188.212.98.0/24
+## Fixed Line ISP
+41.180.13.189/20
 ## Scicube Web Hosting Services
 103.11.101.122/24
 ## EUserv Internet
