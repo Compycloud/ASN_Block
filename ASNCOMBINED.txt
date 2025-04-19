@@ -7555,3 +7555,5 @@
 45.86.202.84/24
 ## Genesys Informatica srl
 89.31.72.0/21
+## IIJ Engineering Inc.
+39.110.238.216/15
