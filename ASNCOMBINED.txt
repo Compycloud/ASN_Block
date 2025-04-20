@@ -6110,6 +6110,8 @@
 198.71.62.233/20
 ## UK Next Generation Cloud Server (NGCS)
 77.68.17.162/17
+## Shared Hosting
+13.171.216.91/19
 ## Ambyre LLC
 85.202.160.156/24
 ## Tencent Building, Kejizhongyi Avenue 
