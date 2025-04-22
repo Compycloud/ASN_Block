@@ -961,6 +961,8 @@
 196.200.79.0/24
 ## OJSC Rostelecom Macroregional Branch South
 85.175.218.240/22
+## TELEFÔNICA BRASIL S.A
+189.57.208.250/15
 ## Zenlayer Inc
 98.98.171.98/23
 ## Zenlayer Singapore network
