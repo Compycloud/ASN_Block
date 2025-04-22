@@ -28,3 +28,5 @@
 77.36.48.144/22
 ## Real Telco Singapore
 77.36.96.142/20
+## SHARP-VALIDATION
+77.36.86.82/21
