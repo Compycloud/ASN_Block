@@ -12,3 +12,5 @@
 ## Representative office No. 2 of VietServer Services technology Ltd.
 103.156.90.212/23
 103.156.93.222/23
+## XOR CLOUD JOINT STOCK COMPANY
+103.252.72.179/23
