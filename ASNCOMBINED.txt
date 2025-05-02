@@ -414,6 +414,8 @@
 212.22.90.0/24
 ## Expedient
 66.181.72.85/32
+## Vietnam Online Network Solution Joint Stock Compnay
+103.130.214.6/24
 ## MacStadium, Inc.
 208.52.168.21/24
 ## ViaNetTV Inc
