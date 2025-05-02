@@ -6944,6 +6944,8 @@
 198.20.70.186/18
 ## Soluciones web on line s.l.
 185.92.245.11/24
+## Cloud Master LLP
+185.206.34.34/24
 ## ESTRACOM SPA
 83.149.166.12/18
 ## Global Layer B.V.
