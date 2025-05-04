@@ -4832,6 +4832,8 @@
 95.71.82.181/21
 ## Dynamic distribution IP's for broadband services
 90.150.249.108/20
+## HostUS
+208.87.98.154/24
 ## Vodafone Net Iletisim Hizmetler AS
 31.145.138.124/17
 ## EGOVERNMENT UNIT
