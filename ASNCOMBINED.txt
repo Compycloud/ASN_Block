@@ -7391,6 +7391,8 @@
 5.248.91.21/16
 ## PF IPV4 Borrower, LLC
 66.150.198.179/24
+## Charles River Operation
+154.39.0.48/24
 ## FIBER FAST PROVEDOR DE INTERNET E SERVICOS LTDA 
 45.162.175.227/24
 ## Mimecast Services Limited
