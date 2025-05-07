@@ -1,3 +1,4 @@
 ## CV Mico Digital Indonesia
-# 157.66.54.30
-157.66.54.0/24
+157.66.54.30/24
+## Internet Utilities Europe and Asia Limited
+31.56.56.147/24
