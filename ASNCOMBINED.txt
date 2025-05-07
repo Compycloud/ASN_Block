@@ -1097,6 +1097,9 @@
 186.84.20.207/24
 ## Contel OOO
 109.248.11.184/23
+## New Hosting Technologies LLC
+94.159.113.24/24
+109.120.144.0/24
 ## GBD Software as a Service Private Limited Company
 185.203.186.207/22
 ## Hubuco
