@@ -4473,6 +4473,8 @@
 ## Link Egypt (Link.NET)
 41.196.200.158/23
 45.243.252.236/22
+## Gobernacion de la Provincia de Buenos Aires
+170.155.9.131/18
 ## Zillion Network Inc
 45.207.252.175/23
 ## Server Plan S.r.l.
