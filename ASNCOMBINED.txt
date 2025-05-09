@@ -380,6 +380,7 @@
 ## Charter Communications Inc
 74.62.23.242/18
 ## Proofpoint, Inc.
+143.55.146.210/24
 185.183.30.197/24
 ## ServerPoint.com
 64.235.44.5/24
