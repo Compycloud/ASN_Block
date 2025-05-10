@@ -5386,6 +5386,8 @@
 91.239.208.215/24
 ## PJSC MegaFon
 85.26.234.189/23
+## Tusker Technologies Pty Ltd
+84.32.59.24/24
 ## WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
 200.125.171.156/24
 ## Krystal Hosting Ltd
