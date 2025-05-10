@@ -7445,6 +7445,9 @@
 43.251.16.253/24
 ## Xantho UAB
 193.200.78.25/24
+## PROXY SOLUTIONS LTD
+45.196.210.0/24
+45.197.25.0/24
 ## Beijing Volcano Engine Technology Co., Ltd.
 101.126.22.66/21
 ## TALIDO Bilisim Teknolojileri Sanayi ve Ticaret Anonim Sirketi
