@@ -5532,12 +5532,13 @@
 45.146.130.98/24
 185.93.89.118/24
 ## Internet Utilities Europe and Asia Limited
-# 191.96.150.90
-191.96.150.0/24
+191.96.150.90/24
 102.129.145.0/24
 102.129.152.0/24
 102.129.153.0/24
 102.165.48.0/24
+## JSC Ukrtelecom
+91.124.17.247/24
 ## Soluciones web on line s.l.
 185.92.245.11/24
 ## QuadraNet Enterprises LLC
