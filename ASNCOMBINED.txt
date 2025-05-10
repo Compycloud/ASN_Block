@@ -6516,6 +6516,8 @@
 95.215.19.22/22
 ## THSOLUCIONES
 200.80.10.27/32
+## UAB Nacionalinis Telekomunikaciju Tinklas
+84.32.34.54/24
 ## LLC DZHIBIEN HOST
 45.8.124.15/24
 ## internet-security-cheapyhost
