@@ -1,0 +1,2 @@
+## Static IP Poool for broadband customers in Moscow
+95.31.12.228/15
