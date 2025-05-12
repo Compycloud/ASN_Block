@@ -1549,6 +1549,8 @@
 180.188.226.100/24
 ## Sarps Technologies Pvt. Ltd.
 103.117.212.36/24
+## Academy for Internet Research Limited Liability Company
+104.156.155.3/24
 ## Amazon.com, Inc.
 18.237.56.223/24
 18.246.217.142/24
