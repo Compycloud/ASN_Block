@@ -6534,6 +6534,8 @@
 200.80.10.27/32
 ## UAB Nacionalinis Telekomunikaciju Tinklas
 84.32.34.54/24
+## Static IP Poool for broadband customers in Moscow
+95.31.12.228/15
 ## LLC DZHIBIEN HOST
 45.8.124.15/24
 ## internet-security-cheapyhost
