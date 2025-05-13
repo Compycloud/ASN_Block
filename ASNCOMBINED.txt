@@ -2445,6 +2445,8 @@
 ## Pacifico Cable SPA.
 179.60.65.169/21
 190.114.32.12/21
+## MXCLOUD Ltd
+176.98.186.46/24
 ## Noida Network
 103.150.186.0/24
 ## Ewebguru
