@@ -10,3 +10,5 @@
 95.71.82.181/21
 ## Dynamic distribution IP's for broadband services
 90.150.249.108/20
+## OJSC Rostelecom, Kursk branch
+188.113.21.199/18
