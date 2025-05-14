@@ -1432,6 +1432,8 @@
 213.21.232.107/24
 ## DSS Serviços de Tecnologia da Informação
 187.28.106.30/32
+## STACKS-INC
+154.92.131.138/24
 ## Iranscience network Data Center & Storage Network
 62.60.136.215/24
 ## O.M.C. COMPUTERS & COMMUNICATIONS LTD
