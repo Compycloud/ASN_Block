@@ -6390,6 +6390,8 @@
 186.64.118.225/21
 ## SoftLayer Technologies, Inc.
 169.44.200.76/17
+## DeliveryTech
+199.187.172.172/22
 ## Señal Nacional S.A.
 45.173.218.172/24
 ## Vodafone Net Iletisim Hizmetler AS
