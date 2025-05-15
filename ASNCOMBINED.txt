@@ -3856,6 +3856,8 @@
 ## SERVERS TECH FZCO
 80.85.245.5/24
 80.85.246.140/24
+## Netplus Broadband Services Private Limited
+101.0.35.42/24
 ## PlusNet plc.
 212.159.5.98/19
 ## Cooperativa Telefonica de V.G.G. Ltda.
