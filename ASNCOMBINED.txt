@@ -1799,6 +1799,8 @@
 91.197.72.145/22
 ## Green Web Samaneh Novin PJSC
 85.208.253.156/24
+## Kurta Gali (Private) Limited
+103.72.2.100/24
 ## webhosting servers
 85.128.143.182/24
 ## Cyber Internet Services Pakistan
