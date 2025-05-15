@@ -5162,6 +5162,8 @@
 45.154.98.93/24
 ## BTC Broadband Service
 62.73.122.77/24
+## CONNECTLINK TECH
+45.190.159.76/23
 ## Google Fiber Inc.
 136.38.237.72/20
 ## SendGrid, Inc.
