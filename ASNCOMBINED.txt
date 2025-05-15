@@ -2036,6 +2036,8 @@
 103.139.213.0/24
 ## ClassicTech Pvt. Ltd.
 45.64.160.109/24
+## Consiliu Judetean Harghita
+85.186.88.250/17
 ## M247 Europe SRL
 185.25.157.139/24
 185.25.157.148/24
@@ -3252,8 +3254,6 @@
 92.241.124.102/19
 ## Locaweb Serviços de Internet S/A
 201.76.49.143/19
-## Consiliu Judetean Harghita
-85.186.88.250/17
 ## Private Layer INC
 31.7.56.0/21
 46.19.143.66/21
