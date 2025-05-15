@@ -1134,8 +1134,6 @@
 113.30.151.199/24
 ## Flux Services, Inc.
 173.225.21.50/23
-## TELEFÔNICA BRASIL S.A
-189.57.208.250/15
 ## Hoster.KZ
 185.98.5.122/24
 185.100.64.0/24
@@ -1399,6 +1397,8 @@
 85.140.60.246/24
 ## SIMCENTRIC-HK NETBLOCK
 182.16.101.193/24
+## TELEFÔNICA BRASIL S.A
+189.57.208.250/15
 ## Iran Telecommunication Company PJS
 5.75.79.4/17
 ## Vietnam Posts and Telecommunications Group
