@@ -602,6 +602,8 @@
 5.16.52.0/22
 5.16.56.0/22
 5.16.60.0/22
+## GNET INC.
+45.197.56.124/20
 ## Hetzner Online GmbH
 5.161.213.201/24
 ## Emanuel Hosting Ltd.
