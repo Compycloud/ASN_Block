@@ -4,10 +4,6 @@
 45.78.210.213/21
 ## B.net Hrvatska
 94.253.206.222/17
-## Customer VPS
-185.107.89.35/22
-## Hostnet BV Network Operations
-37.128.148.215/21
 ## Proofpoint, Inc.
 148.163.135.67/24
 ## Office of Info.Tech. Admin. for Educational Development
@@ -1443,6 +1439,12 @@
 196.206.86.106/21
 ## GMO Internet Group, Inc.
 133.130.103.36/18
+## Customer VPS
+185.107.89.35/22
+## Hostnet BV Network Operations
+37.128.148.215/21
+## Two Degrees Mobile Limited
+161.29.55.122/16
 ## PT Jala Lintas Media
 202.51.216.112/24
 ## Strato Rechenzentrum, Karlsruhe
