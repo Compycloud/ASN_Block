@@ -1,2 +1,4 @@
 ## Sendinblue SAS
 77.32.148.101/22
+## MailinBlue - 1
+185.41.28.3/22
