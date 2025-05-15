@@ -1814,10 +1814,6 @@
 179.15.76.175/14
 ## Mammoth Media Pty Ltd
 110.232.115.158/22
-## Web Werks India Pvt. Ltd
-180.188.226.100/24
-## Sarps Technologies Pvt. Ltd.
-103.117.212.36/24
 ## Intervision LLC
 209.212.146.129/32
 ## WiCAM Corporation, LTD
@@ -1882,6 +1878,12 @@
 185.203.186.207/22
 ## Hubuco
 185.196.54.229/22
+## Web Werks India Pvt. Ltd
+180.188.226.100/24
+## Sarps Technologies Pvt. Ltd.
+103.117.212.36/24
+## VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA
+62.38.101.198/16
 ## Chunghwa Telecom Co.,Ltd.
 59.120.163.71/16
 217.16.8.101/16
