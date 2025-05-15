@@ -5411,6 +5411,8 @@
 81.7.5.2/19
 ## Beam Telecom Pvt Ltd
 49.206.117.56/22
+## Cooperativa Telefonica Del Viso
+200.85.104.175/23
 ## Noida Network
 103.150.186.0/24
 ## Ewebguru
