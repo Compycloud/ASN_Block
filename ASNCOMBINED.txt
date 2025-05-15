@@ -3843,6 +3843,8 @@
 212.159.5.98/19
 ## AGUAS ZARCAS
 201.203.6.121/24
+## Cooperativa Telefonica de V.G.G. Ltda.
+179.60.9.64/22
 ## Proofpoint, Inc.
 143.55.146.210/24
 185.183.30.197/24
