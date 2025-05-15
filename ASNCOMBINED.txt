@@ -6247,6 +6247,8 @@
 103.110.84.40/22
 ## IPX - FZCO
 45.130.151.106/24
+## PT Nanaka Network Communication
+103.52.6.103/24
 ## FPT Telecom Company
 1.52.9.124/23
 42.113.27.97/24
