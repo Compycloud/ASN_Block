@@ -4859,6 +4859,7 @@
 103.200.38.241/24
 ## AMX Argentina S.A.
 181.117.24.73/23
+186.122.212.212/24
 ## AGUAS RIOJANAS S.A.P.E.M
 190.221.50.123/16
 ## Shanghai Data Solution Co., Ltd.
