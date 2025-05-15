@@ -3719,6 +3719,8 @@
 52.131.128.0/17
 ## Mobile TeleSystems JLLC
 134.17.94.149/21
+## Genstar Network Solutions Pvt Ltd.
+103.169.246.55/24
 ## BigScoots
 207.241.196.230/24
 ## Future Spirits Co.,Ltd.
