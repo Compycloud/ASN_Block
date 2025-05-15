@@ -6271,6 +6271,8 @@
 ## Telecom Algeria
 154.241.2.80/16
 154.242.24.99/16
+## residentiel
+105.99.58.146/18
 ## Flyservers S.A.
 194.165.16.72/24
 ## SONATEL Societe Nationale Des Telecommunications Du Senegal
