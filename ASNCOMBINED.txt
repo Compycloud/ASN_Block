@@ -1638,11 +1638,6 @@
 110.136.28.0/22
 ## Ministry of Education - EMISC
 106.0.128.210/18
-## Comcast IP Services, L.L.C.
-67.181.82.18/11
-73.174.242.5/32
-## Comcast Cable Communications, LLC
-50.185.201.120/9
 ## AVATO TECNOLOGIA S.A
 168.196.138.121/23
 ## FBW NETWORKS SAS
@@ -7931,6 +7926,12 @@
 194.120.104.0/23
 ## Registrator LLC
 77.87.214.0/23
+## Comcast IP Services, L.L.C.
+67.181.82.18/11
+73.174.242.5/32
+## Comcast Cable Communications, LLC
+50.185.201.120/9
+68.83.56.100/13
 ## MAXNET TELECOM, LTD
 5.58.33.187/19
 ## ANINETWORK PVT LTD
