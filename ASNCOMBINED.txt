@@ -7700,6 +7700,8 @@
 14.102.230.0/24
 ## Zorn Technologies
 103.14.22.0/24
+## Asia Pacific Network Information Centre
+182.232.84.94/22
 ## Allnet Broadband Network Pvt Ltd
 103.69.20.111/24
 ## Lir.bg EOOD
