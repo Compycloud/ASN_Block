@@ -651,6 +651,8 @@
 103.82.78.15/24
 ## Iran Cell Service and Communication Company
 5.112.6.190/20
+## Armour Cloud, LLC
+209.250.5.47/24
 ## Nextnet Network Pvt Ltd
 103.171.39.95/24
 ## BASKENT UNIVERSITESI
@@ -1495,8 +1497,6 @@
 93.152.220.246/24
 ## RnR IX NETWORK
 61.245.10.209/24
-## Armour Cloud, LLC
-209.250.5.47/24
 ## I Seven
 103.182.211.26/24
 ## LeaseWeb Netherlands B.V.
