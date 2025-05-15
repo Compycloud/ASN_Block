@@ -4182,6 +4182,8 @@
 45.40.121.92/24
 ## HostPapa
 204.44.192.94/21
+## TURKCELL INTERNET
+5.25.172.53/20
 ## Orange Polska Spolka Akcyjna
 83.16.76.169/13
 ## Servers Australia Pty. Ltd
