@@ -1882,6 +1882,8 @@
 66.181.72.85/32
 ## Level3 Carrier Limited
 103.15.41.98/24
+## Telecom Armenia OJSC
+178.160.211.234/18
 ## Brasilnet Telecomunicações Ltda ME
 189.90.118.105/24
 ## CHINANET Beijing Province Network
@@ -2070,8 +2072,6 @@
 154.208.40.29/24
 ## Golden Frog GmbH
 31.6.50.91/24
-## Telecom Armenia OJSC
-178.160.211.234/18
 ## Wana Corporate
 197.146.167.73/16
 ## University of California, Los Angeles
