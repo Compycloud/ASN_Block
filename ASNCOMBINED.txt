@@ -2545,6 +2545,8 @@
 36.255.71.0/24
 ## Aliyun Computing Co., LTD
 123.57.38.90/16
+## VIGINET C.A
+190.97.227.154/24
 ## Cloud at Cost
 139.64.245.10/24
 ## Irideos Spa
