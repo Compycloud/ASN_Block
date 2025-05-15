@@ -892,10 +892,6 @@
 194.0.252.120/24
 ## XHOST INTERNET SOLUTIONS LP Suite 6060, 128 Aldersgate Street, Barbican, London EClA 4AE, England
 80.66.66.50/24
-## AMX Argentina S.A.
-181.117.24.73/23
-## AGUAS RIOJANAS S.A.P.E.M
-190.221.50.123/16
 ## Aiyun (HK) Network Technology Limited
 2.58.87.221/24
 ## SmartApe OU
@@ -4737,6 +4733,10 @@
 109.62.254.0/24
 ## Imran Zahir Khan T/A Sky View Online Service
 103.200.38.241/24
+## AMX Argentina S.A.
+181.117.24.73/23
+## AGUAS RIOJANAS S.A.P.E.M
+190.221.50.123/16
 ## Shanghai Data Solution Co., Ltd.
 61.129.155.206/17
 120.136.165.86/21
