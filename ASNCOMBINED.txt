@@ -6819,6 +6819,7 @@
 ## ESTRACOM SPA
 83.149.166.12/18
 ## PE-TDP-GRS
+190.234.242.149/20
 190.235.123.211/24
 200.121.203.95/24
 ## Static IP Poool for broadband customers in Moscow
