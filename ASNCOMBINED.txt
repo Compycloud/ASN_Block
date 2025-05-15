@@ -4203,6 +4203,7 @@
 204.44.192.94/21
 ## TURKCELL INTERNET
 5.25.172.53/20
+5.27.25.81/20
 ## Orange Polska Spolka Akcyjna
 83.16.76.169/13
 ## Servers Australia Pty. Ltd
