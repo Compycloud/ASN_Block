@@ -1,2 +1,4 @@
 ## TELEFÓNICA CHILE S.A.
 152.173.175.119/17
+## Movistar Fibra
+181.161.165.153/15
