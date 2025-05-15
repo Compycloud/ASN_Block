@@ -182,6 +182,8 @@
 31.25.98.98/21
 ## Digital Value SL
 83.147.18.199/24
+## ICC Communication Ltd.
+103.139.9.56/24
 ## Cambo Technology Co. Ltd., Internet Service Provider, Phnom Penh, Cambodia
 202.131.82.132/24
 202.131.82.186/24
