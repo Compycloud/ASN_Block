@@ -2,3 +2,5 @@
 185.107.89.35/22
 ## Hostnet BV Network Operations
 37.128.148.215/21
+## Two Degrees Mobile Limited
+161.29.55.122/16
