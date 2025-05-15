@@ -481,6 +481,8 @@
 115.248.66.131/24
 ## ANS ACADEMY LIMITED
 45.157.43.200/22
+## ClearPath1
+110.93.83.63/24
 ## Global Technology Co., Ltd.
 103.231.95.43/24
 ## Internet Names For Business Inc.
