@@ -1861,6 +1861,16 @@
 66.85.76.98/21
 ## UAB Nacionalinis Telekomunikaciju Tinklas
 84.32.34.54/24
+## Neterra Ltd.
+87.120.93.10/24
+## SKYNET NETWORK LTD
+194.0.234.36/24
+## Atis Omran Sevin PSJ
+194.0.234.0/24
+## Limited Network LTD
+45.142.193.92/24
+## REYNLOADS JONATHAN
+87.120.93.0/24
 ## Telefonica de Argentina
 179.36.197.93/14
 186.65.108.154/22
@@ -3580,16 +3590,6 @@
 195.29.150.14/18
 ## PlusWeb Sunucu Internet Hizmetleri Tic Ltd. Sti
 194.1.192.122/24
-## Neterra Ltd.
-87.120.93.10/24
-## SKYNET NETWORK LTD
-194.0.234.36/24
-## Atis Omran Sevin PSJ
-194.0.234.0/24
-## Limited Network LTD
-45.142.193.0/24
-## REYNLOADS JONATHAN
-87.120.93.0/24
 ## AKKnet Sp. z o.o.
 195.128.242.18/24
 ## ServerPoint.com
