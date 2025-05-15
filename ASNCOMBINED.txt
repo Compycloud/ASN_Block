@@ -1428,15 +1428,6 @@
 178.217.244.18/21
 ## PJSC MegaFon
 85.26.234.189/23
-## MarocTelecomASDL
-160.176.77.76/21
-160.177.0.0/21
-160.177.46.118/21
-160.178.210.164/21
-## ADSL_Maroc_telecom
-196.89.140.156/21
-## Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
-196.206.86.106/21
 ## GMO Internet Group, Inc.
 133.130.103.36/18
 ## Customer VPS
@@ -1816,6 +1807,16 @@
 179.15.76.175/14
 ## Mammoth Media Pty Ltd
 110.232.115.158/22
+## MarocTelecomASDL
+160.176.77.76/21
+160.177.0.0/21
+160.177.46.118/21
+160.178.210.164/21
+## ADSL_Maroc_telecom
+41.141.41.50/21
+196.89.140.156/21
+## Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+196.206.86.106/21
 ## Intervision LLC
 209.212.146.129/32
 ## WiCAM Corporation, LTD
