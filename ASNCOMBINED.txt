@@ -7494,6 +7494,8 @@
 43.226.231.0/24
 ## Internet Security Services KR
 45.115.25.0/24
+## China Unicom Guangdong province network
+27.45.46.185/13
 ## Red Cientifica Peruana
 # 161.132.103.139
 161.132.0.0/17
