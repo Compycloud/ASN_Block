@@ -1915,6 +1915,8 @@
 66.181.72.85/32
 ## Level3 Carrier Limited
 103.15.41.98/24
+## Krystal Hosting Ltd
+185.199.223.44/22
 ## Telecom Armenia OJSC
 178.160.211.234/18
 ## Brasilnet Telecomunicações Ltda ME
@@ -4931,8 +4933,6 @@
 163.61.188.88/24
 ## Soluciones web on line s.l.
 185.92.245.11/24
-## Krystal Hosting Ltd
-185.199.223.44/22
 ## Limited Network LTD
 45.146.130.98/24
 185.93.89.118/24
