@@ -2624,10 +2624,6 @@
 ## InMotion Hosting, Inc.
 23.235.198.142/22
 198.46.86.33/22
-## Claro NXT Telecomunicacoes Ltda
-186.221.63.13/16
-187.106.100.60/19
-191.178.195.217/19
 ## Emirates Telecommunications Corporation
 92.97.100.38/21
 ## IPXO LLC
@@ -7899,3 +7895,8 @@
 170.155.9.131/18
 ## ab stract ltd
 95.215.19.22/22
+## Claro NXT Telecomunicacoes Ltda
+179.215.121.199/20
+186.221.63.13/16
+187.106.100.60/19
+191.178.195.217/19
