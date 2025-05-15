@@ -3925,6 +3925,8 @@
 157.65.22.146/20
 ## OJSC Rostelecom, Tambov branch
 78.132.137.230/17
+## ACME Universal Co.
+202.51.149.194/24
 ## HOSTGNOME LTD
 185.91.69.209/24
 ## Parsan Lin Co. PJS
