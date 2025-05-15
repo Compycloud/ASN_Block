@@ -1328,8 +1328,6 @@
 213.87.106.0/23
 ## Pace Telecom and Brodcasting Private Limited
 103.19.49.37/24
-## Vodafone Portugal
-89.115.243.186/15
 ## Cloud Master LLP
 185.206.34.34/24
 ## Long Van System Solution JSC
@@ -7362,6 +7360,8 @@
 77.87.210.0/24
 77.87.212.0/24
 77.87.213.0/24
+## Vodafone Portugal
+89.115.243.186/15
 ## China Mobile Communications Corporation
 111.5.0.0/16
 111.55.16.0/23
