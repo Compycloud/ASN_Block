@@ -1621,6 +1621,8 @@
 73.174.242.5/32
 ## Comcast Cable Communications, LLC
 50.185.201.120/9
+## AVATO TECNOLOGIA S.A
+168.196.138.121/23
 ## FBW NETWORKS SAS
 37.44.238.68/24
 ## Mobile Communication Company of Iran PLC
