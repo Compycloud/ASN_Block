@@ -1,3 +1,9 @@
+## Bharti Airtel Limited
+223.178.209.142/23
+106.219.176.3/22
+223.178.210.198/23
+## Bharti Airtel Limited, Plot Number 21 Rajiv Gandhi Technology Park In Bharti Airtel Campus, I T Park, Chandigarh - 160001
+223.185.15.175/22
 ## Bharti Airtel Ltd , 14, Janapath, Bapuji Nagar, Bhubaneshwar - 751009
 61.246.139.167/24
 106.222.217.240/22
