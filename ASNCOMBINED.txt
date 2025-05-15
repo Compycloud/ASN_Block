@@ -2989,20 +2989,6 @@
 101.237.38.0/24
 101.237.39.0/24
 101.237.40.0/24
-## PJSC Rostelecom
-93.120.240.202/18
-## OJSC VolgaTelecom
-95.71.198.207/18
-## OJSC Rostelecom, Orel branch
-109.61.248.154/18
-## Rostelecom
-95.68.184.88/17
-## OJSC Rostelecom, Belgorod branch
-95.71.82.181/21
-## Dynamic distribution IP's for broadband services
-90.150.249.108/20
-## OJSC Rostelecom, Kursk branch
-188.113.21.199/18
 ## HostHatch Inc
 176.126.86.157/24
 ## Vocus Retail
@@ -4012,6 +3998,20 @@
 43.153.41.36/18
 ## ACEVILLE PTE.LTD.
 43.166.226.186/19
+## PJSC Rostelecom
+93.120.240.202/18
+## OJSC VolgaTelecom
+95.71.198.207/18
+## OJSC Rostelecom, Orel branch
+109.61.248.154/18
+## Rostelecom
+95.68.184.88/17
+## OJSC Rostelecom, Belgorod branch
+95.71.82.181/21
+## Dynamic distribution IP's for broadband services
+90.150.249.108/20
+## OJSC Rostelecom, Kursk branch
+188.113.21.199/18
 ## WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
 200.125.171.156/24
 ## TELEFÔNICA BRASIL S.A
