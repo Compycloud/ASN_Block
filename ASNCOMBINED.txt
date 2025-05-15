@@ -1510,6 +1510,9 @@
 212.32.242.118/19
 ## Bucklog SARL
 154.83.103.12/24
+## Telmex Colombia S.A.
+181.58.39.235/24
+186.84.20.207/24
 ## WIIT AG
 217.79.178.57/32
 ## PT TELKOM INDONESIA
@@ -1803,9 +1806,6 @@
 209.212.146.129/32
 ## WiCAM Corporation, LTD
 119.15.83.218/24
-## Telmex Colombia S.A.
-181.58.39.235/24
-186.84.20.207/24
 ## Arnestorp Design Handelsbolag
 185.133.206.28/22
 ## World4You.com Internet Services GmbH
