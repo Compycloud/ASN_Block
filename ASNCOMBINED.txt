@@ -2019,6 +2019,8 @@
 ## Yunduan Interchange (Beijing) Computer Technology Co., Ltd.
 103.139.212.0/24
 103.139.213.0/24
+## ClassicTech Pvt. Ltd.
+45.64.160.109/24
 ## M247 Europe SRL
 185.25.157.139/24
 185.25.157.148/24
