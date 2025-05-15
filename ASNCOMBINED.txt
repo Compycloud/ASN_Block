@@ -6836,6 +6836,8 @@
 ## Broadband Multiplay Project, O/o DGM BB, NOC BSNL Bangalore
 59.98.118.118/20
 117.201.199.192/20
+## X-LINK LIMITED
+103.103.35.213/24
 ## Asiatech Data Transmission company
 37.156.144.83/24
 ## Sky Italia srl
