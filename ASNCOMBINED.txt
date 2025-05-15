@@ -299,6 +299,9 @@
 62.149.156.76/19
 ## Aruba S.p.A. - Shared Hosting IT1
 31.11.36.126/21
+## Orange Espagne SA
+85.50.249.197/22
+90.169.207.98/22
 ## ShenZhen Topway Video Communication Co. Ltd.
 222.125.92.35/17
 ## LLC «NBI»
@@ -2481,9 +2484,6 @@
 43.153.41.36/18
 ## ACEVILLE PTE.LTD.
 43.166.226.186/19
-## Orange Espagne SA
-85.50.249.197/22
-90.169.207.98/22
 ## Etihad Jawraa Company for communication and information technology
 185.133.181.24/24
 ## Etihad Etisalat, a joint stock company
