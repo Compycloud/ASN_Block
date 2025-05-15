@@ -1349,6 +1349,8 @@
 2.112.70.196/32
 ## Telecom Italia S.p.A.
 95.255.108.3/16
+## Telecom Italia S.p.A. TIN EASY LITE
+87.15.79.79/15
 ## ??? Alkor and Co
 5.8.179.65/24
 ## Virtuo Holdings Inc.
