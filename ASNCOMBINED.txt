@@ -1855,8 +1855,6 @@
 176.99.9.19/24
 ## Dade Samane Fanava Company (PJS)
 78.157.35.67/24
-## Etihad Jawraa Company for communication and information technology
-185.133.181.24/24
 ## GBD Software as a Service Private Limited Company
 185.203.186.207/22
 ## Hubuco
@@ -2461,6 +2459,10 @@
 ## Orange Espagne SA
 85.50.249.197/22
 90.169.207.98/22
+## Etihad Jawraa Company for communication and information technology
+185.133.181.24/24
+## Etihad Etisalat, a joint stock company
+37.243.12.118/20
 ## Telecom Malagasy
 102.16.255.246/18
 ## InterCloud ltd
