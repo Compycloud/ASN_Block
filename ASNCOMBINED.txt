@@ -1801,6 +1801,8 @@
 85.208.253.156/24
 ## webhosting servers
 85.128.143.182/24
+## Cyber Internet Services Pakistan
+202.47.59.39/24
 ## Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)
 121.36.47.71/17
 ## JASHORE COLO
