@@ -4717,6 +4717,8 @@
 185.14.203.200/24
 ## ALGAR TECNOLOGIA E CONSULTORIA SA
 186.237.200.14/24
+## Powertel Communications
+41.79.189.178/24
 ## Emirates Integrated Telecommunications Company PJSC (EITC-DU)
 94.204.173.252/19
 ## DATALIX
