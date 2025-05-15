@@ -635,8 +635,6 @@
 216.244.66.196/19
 ## Sky Telecom State Company
 141.164.107.186/24
-## Brisanet Prestacao De Servicos De Internet Ltda
-206.42.47.107/20
 ## Contabo GmbH
 46.250.239.113/20
 84.247.155.159/21
@@ -7591,6 +7589,9 @@
 149.255.35.26/24
 ## Strasmore, Inc.
 209.182.237.105/24
+## Brisanet Prestacao De Servicos De Internet Ltda
+177.37.168.99/20
+206.42.47.107/20
 ## Liquid Web, L.L.C
 104.207.254.164/24
 209.87.149.52/24
