@@ -664,6 +664,8 @@
 176.147.46.221/32
 ## Virtual Systems LLC
 45.11.59.130/24
+## WIND NET S.A.
+45.184.111.50/23
 ## Chang Way Technologies Co. Limited
 85.209.11.0/24
 ## Starcrecium Limited
