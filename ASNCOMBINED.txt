@@ -1478,6 +1478,10 @@
 45.84.89.2/24
 ## GVA Burkina Faso
 102.23.32.181/18
+## 31173 Services AB infrastructure in Stockholm, Sweden.
+185.65.135.249/24
+185.241.208.220/24
+194.26.192.228/24
 ## SH-Customer188
 188.132.148.7/24
 ## Netinternet Bilisim Teknolojileri AS
