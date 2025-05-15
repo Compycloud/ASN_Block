@@ -3706,6 +3706,8 @@
 157.66.54.30/24
 ## Internet Utilities Europe and Asia Limited
 31.56.56.147/24
+## Hormuud-Telecom-Somalia-inc
+192.145.174.202/24
 ## Shanghai Blue Cloud Technology Co.,Ltd
 40.73.2.47/17
 103.9.8.0/22
