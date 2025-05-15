@@ -5071,6 +5071,8 @@
 81.177.3.44/19
 ## Avguro Technologies Ltd. Hosting service provider
 195.161.68.151/16
+## CAMTEL
+154.72.163.118/23
 ## New Dream Network, LLC
 64.90.53.241/19
 69.163.177.183/17
