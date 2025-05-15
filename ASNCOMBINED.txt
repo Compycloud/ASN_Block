@@ -2528,19 +2528,6 @@
 213.203.139.82/18
 ## T-Mobile USA, Inc.
 172.59.125.238/21
-## Telecom Argentina S.A.
-24.232.0.196/17
-152.169.48.131/15
-181.30.230.254/15
-181.81.7.119/15
-181.111.252.219/14
-186.125.172.75/15
-201.252.235.126/16
-## Apolo -Gold-Telecom-Per
-181.91.221.5/15
-181.92.153.73/15
-## Telecom Personal Bs As
-186.152.175.32/16
 ## Apple Technologies LLC
 193.164.17.45/24
 ## Africa on cloud
@@ -6833,6 +6820,20 @@
 61.74.26.227/13
 203.243.11.35/18
 221.156.126.1/13
+## Telecom Argentina S.A.
+24.232.0.196/17
+152.169.48.131/15
+181.30.230.254/15
+181.81.7.119/15
+181.111.252.219/14
+186.125.172.75/15
+201.252.235.126/16
+## Apolo -Gold-Telecom-Per
+181.91.221.5/15
+181.92.153.73/15
+## Telecom Personal Bs As
+181.104.119.189/14
+186.152.175.32/16
 ## Rightel Communication Service Company PJS
 5.134.186.20/22
 ## Earthlink Telecommunications Equipment Trading & Services DMCC
