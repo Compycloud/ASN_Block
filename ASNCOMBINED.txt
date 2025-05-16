@@ -1639,6 +1639,8 @@
 187.28.106.30/32
 ## STACKS-INC
 154.92.131.138/24
+## Allocated to Airtel Kenya Mobile Broadband and Fixed internet
+102.0.5.80/24
 ## Iranscience network Data Center & Storage Network
 62.60.136.215/24
 ## O.M.C. COMPUTERS & COMMUNICATIONS LTD
