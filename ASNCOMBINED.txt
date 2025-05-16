@@ -2000,8 +2000,6 @@
 ## internet-security-Zhongguanchun
 196.251.92.77/24
 196.251.93.2/24
-## Colombia Móvil
-179.15.76.175/14
 ## Mammoth Media Pty Ltd
 110.232.115.158/22
 ## MarocTelecomASDL
@@ -5533,6 +5531,9 @@
 ## Zagreb, Croatia
 185.147.215.0/24
 
+## Colombia Móvil
+179.15.76.175/14
+181.206.98.103/15
 ## AS138423 - CMPak Limited
 223.123.33.46/24
 223.123.41.178/24
