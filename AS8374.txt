@@ -1,0 +1,2 @@
+## Cyfrowy Polsat MVNO mobile broadband services
+5.172.237.172/19
