@@ -3819,6 +3819,10 @@
 195.29.150.14/18
 ## PlusWeb Sunucu Internet Hizmetleri Tic Ltd. Sti
 194.1.192.122/24
+## BTC Broadband Service
+62.73.122.77/24
+## Netronix Internet Provider
+62.73.100.145/24
 ## AKKnet Sp. z o.o.
 195.128.242.18/24
 ## ServerPoint.com
@@ -5547,8 +5551,6 @@
 45.94.31.43/24
 45.138.16.161/24
 45.154.98.93/24
-## BTC Broadband Service
-62.73.122.77/24
 ## CONNECTLINK TECH
 45.190.159.76/23
 ## Google Fiber Inc.
