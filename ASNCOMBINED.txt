@@ -5975,6 +5975,8 @@
 112.94.96.0/23
 112.94.97.254/23
 120.85.114.217/17
+## Administracion Nacional de Telecomunicaciones
+186.53.171.65/20
 ## Intersvyaz-2 JSC
 5.79.201.138/17
 109.191.0.0/16
