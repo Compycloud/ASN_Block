@@ -2117,6 +2117,8 @@
 87.120.115.50/24
 87.120.116.117/24
 87.120.127.64/24
+## VTR BANDA ANCHA S.A.
+190.161.81.164/16
 ## Domain names registrar REG.RU, Ltd
 176.99.9.19/24
 ## Dade Samane Fanava Company (PJS)
