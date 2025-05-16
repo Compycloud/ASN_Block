@@ -1983,6 +1983,8 @@
 168.196.138.121/23
 ## FBW NETWORKS SAS
 37.44.238.68/24
+## Carnival-Internet
+103.112.55.168/24
 ## Mobile Communication Company of Iran PLC
 46.164.87.176/20
 91.133.222.50/20
