@@ -175,6 +175,11 @@
 122.228.246.248/20
 ## CV. Rumahweb Indonesia
 203.194.112.42/24
+## Compañía Dominicana de Teléfonos S. A.
+148.101.9.177/17
+148.255.157.156/16
+152.0.105.237/20
+190.166.160.128/16
 ## Street Net Comercio e Solucoes Tecnologicas Ltda -
 179.49.191.9/24
 ## CLDIN B.V.
@@ -6434,10 +6439,6 @@
 41.82.98.162/19
 ## ViaNetTV Inc
 104.158.16.0/24
-## Compañía Dominicana de Teléfonos S. A.
-148.101.9.177/17
-148.255.157.156/16
-152.0.105.237/20
 ## PT. First Media, Tbk.
 111.94.193.166/19
 ## Alibaba Cloud (Singapore) Private Limited
