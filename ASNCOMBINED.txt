@@ -5190,8 +5190,6 @@
 186.237.200.14/24
 ## Powertel Communications
 41.79.189.178/24
-## Emirates Integrated Telecommunications Company PJSC (EITC-DU)
-94.204.173.252/19
 ## DATALIX
 37.114.46.9/24
 ## OJSC Rostelecom, Belgorod branch
@@ -7135,6 +7133,9 @@
 196.251.91.0/24
 ## Tikona Infinet Ltd.
 113.193.95.177/24
+## Emirates Integrated Telecommunications Company PJSC (EITC-DU)
+94.203.201.243/19
+94.204.173.252/19
 ## Contel OOO
 109.248.11.184/23
 ## Strato Rechenzentrum, Berlin
