@@ -1709,6 +1709,8 @@
 139.162.227.72/19
 ## Linode, LLC
 194.195.122.51/21
+## Cablevisión, S.A. de C.V.
+189.217.42.35/22
 ## Beijing Volcano Engine Technology Co., Ltd.
 101.126.22.66/21
 ## Horizontes Telecom LTDA
