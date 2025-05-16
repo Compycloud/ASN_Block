@@ -5684,6 +5684,8 @@
 212.22.90.0/24
 ## SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)
 196.187.34.8/16
+## Orange (SL) Limited
+197.215.28.234/24
 ## Cloud Hosting Solutions, Limited.
 176.126.103.7/24
 ## TransIP BV
