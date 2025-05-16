@@ -1694,6 +1694,8 @@
 ## 4Media Ltd.
 83.222.190.0/24
 83.222.191.62/24
+## Safaricom Ethiopia - NET05
+102.213.68.185
 ## ??? Alkor and Co
 5.8.179.65/24
 ## Virtuo Holdings Inc.
