@@ -2041,6 +2041,8 @@
 119.15.83.218/24
 ## Arnestorp Design Handelsbolag
 185.133.206.28/22
+## TV Cable Loncomilla S.A.
+186.5.238.66/24
 ## World4You.com Internet Services GmbH
 81.19.145.23/20
 ## Tripolis Webpower B.V.
