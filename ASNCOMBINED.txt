@@ -2544,6 +2544,8 @@
 36.255.69.0/24
 36.255.70.0/24
 36.255.71.0/24
+## Cyfrowy Polsat MVNO mobile broadband services
+5.172.237.172/19
 ## Aliyun Computing Co., LTD
 123.57.38.90/16
 ## VIGINET C.A
