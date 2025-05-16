@@ -2325,6 +2325,8 @@
 103.139.213.0/24
 ## ClassicTech Pvt. Ltd.
 45.64.160.109/24
+## Partner Communications Ltd.
+77.127.112.152/19
 ## Consiliu Judetean Harghita
 85.186.88.250/17
 ## M247 Europe SRL
