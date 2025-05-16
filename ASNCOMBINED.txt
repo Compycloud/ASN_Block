@@ -175,6 +175,8 @@
 122.228.246.248/20
 ## CV. Rumahweb Indonesia
 203.194.112.42/24
+## Street Net Comercio e Solucoes Tecnologicas Ltda -
+179.49.191.9/24
 ## CLDIN B.V.
 31.25.98.98/21
 ## Digital Value SL
