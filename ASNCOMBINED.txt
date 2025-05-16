@@ -4200,6 +4200,9 @@
 165.73.253.239/23
 ## ASIACELL COMMUNICATIONS PJSC
 89.46.204.109/24
+## PT. First Media, Tbk.
+111.94.193.166/19
+139.194.132.129/19
 ## Skoali
 103.102.230.3/24
 203.55.81.228/24
@@ -6476,8 +6479,6 @@
 41.82.98.162/19
 ## ViaNetTV Inc
 104.158.16.0/24
-## PT. First Media, Tbk.
-111.94.193.166/19
 ## Alibaba Cloud (Singapore) Private Limited
 8.218.30.127/17
 8.219.24.164/17
