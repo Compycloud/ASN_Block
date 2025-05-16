@@ -1671,6 +1671,7 @@
 185.206.34.34/24
 ## Ote SA (Hellenic Telecommunications Organisation)
 2.85.150.77/16
+2.86.174.216/16
 94.67.74.35/16
 ## Long Van System Solution JSC
 45.119.80.0/22
