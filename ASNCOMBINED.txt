@@ -7490,6 +7490,8 @@
 103.178.234.0/23
 ## HOME_DSL
 49.144.166.108/20
+## TV&MAS S.A.S
+38.191.211.245/23
 ## Citytelecom LLC
 62.152.59.17/24
 ## Citytelecom LLC
