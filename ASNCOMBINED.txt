@@ -6942,6 +6942,8 @@
 ## PT. SIBER SEKURINDO TEKNOLOGI
 103.146.202.0/23
 
+## TATA Communications Internet Services Ltd
+150.107.120.238/24
 ## Telecom Argentina S.A.
 24.232.0.196/17
 152.169.48.131/15
