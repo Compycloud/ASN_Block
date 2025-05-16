@@ -2930,6 +2930,8 @@
 191.96.207.105/24
 ## COMSATS (Commission on Science and Technology
 203.124.57.93/24
+## REDES HIBRIDAS, S. A.
+189.84.97.150/23
 ## Contabo GmbH
 45.8.133.137/23
 79.143.187.60/23
