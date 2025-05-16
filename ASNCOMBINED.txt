@@ -684,6 +684,13 @@
 45.157.43.200/22
 ## ClearPath1
 110.93.83.63/24
+## Vietnam Posts and Telecommunications Group
+14.170.182.172/20
+14.187.17.37/20
+14.229.103.125/20
+203.210.239.40/20
+## Totdata Data and Digital Services Company Limited
+160.191.53.39/23
 ## Global Technology Co., Ltd.
 103.231.95.43/24
 ## Internet Names For Business Inc.
@@ -4080,12 +4087,6 @@
 102.219.210.14/22
 ## GB, Highbridge
 195.219.32.160/16
-## Vietnam Posts and Telecommunications Group
-14.187.17.37/20
-14.229.103.125/20
-203.210.239.40/20
-## Totdata Data and Digital Services Company Limited
-160.191.53.39/23
 ## IGUANA NETWORK SERVICES C.A.
 138.118.200.5/24
 ## Green Floid LLC
