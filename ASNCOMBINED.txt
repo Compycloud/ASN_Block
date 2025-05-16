@@ -1537,6 +1537,9 @@
 103.19.49.37/24
 ## Cloud Master LLP
 185.206.34.34/24
+## Ote SA (Hellenic Telecommunications Organisation)
+2.85.150.77/16
+94.67.74.35/16
 ## Long Van System Solution JSC
 45.119.80.0/22
 45.119.84.18/22
@@ -3545,8 +3548,6 @@
 106.201.74.0/24
 ## WEBBY TELECOM LTDA
 187.73.196.243/23
-## Ote SA (Hellenic Telecommunications Organisation)
-2.85.150.77/16
 ## TELEFONICA DE ESPANA S.A.U.
 2.136.102.117/16
 2.139.250.38/16
