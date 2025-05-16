@@ -8065,6 +8065,7 @@
 ## Comcast Cable Communications, LLC
 50.185.201.120/9
 68.83.56.100/13
+71.230.228.16/12
 ## SFR Solucoes em Tecnologia da Informacao Ltda
 187.108.13.144/24
 ## MAXNET TELECOM, LTD
