@@ -2143,6 +2143,8 @@
 185.196.54.229/22
 ## Network tech merge from As24608 into As1267
 31.191.95.75/16
+## WIND TRE S.P.A.
+151.81.154.77/16
 ## Web Werks India Pvt. Ltd
 180.188.226.100/24
 ## Sarps Technologies Pvt. Ltd.
