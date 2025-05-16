@@ -5107,6 +5107,8 @@
 195.88.92.0/23
 84.38.1.0/24
 84.38.3.0/24
+## SERVICABLE S.A. DE C.V.
+45.184.100.212/23
 ## Dinas Komunikasi dan Informatika Kota Madiun
 103.149.120.110/24
 103.149.121.0/24
