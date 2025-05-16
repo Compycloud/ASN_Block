@@ -4721,8 +4721,6 @@
 41.180.13.189/20
 ## Super Online Data Co.,Ltd
 45.117.170.36/23
-## Deutsche Telekom AG
-80.153.194.148/14
 ## IPXO LLC
 45.40.121.92/24
 ## HostPapa
@@ -5179,6 +5177,9 @@
 197.95.81.43/19
 ## Soluciones web on line s.l.
 185.92.245.11/24
+## Deutsche Telekom AG
+80.153.194.148/14
+217.247.241.66/11
 ## Limited Network LTD
 45.146.130.98/24
 185.93.89.118/24
