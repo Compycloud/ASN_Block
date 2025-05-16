@@ -1545,12 +1545,6 @@
 ## 4Media Ltd.
 83.222.190.0/24
 83.222.191.62/24
-## ISTITUTO TECNICO INDUSTRIALE STATALE 'MAX PLANCK'
-2.112.70.196/32
-## Telecom Italia S.p.A.
-95.255.108.3/16
-## Telecom Italia S.p.A. TIN EASY LITE
-87.15.79.79/15
 ## ??? Alkor and Co
 5.8.179.65/24
 ## Virtuo Holdings Inc.
@@ -7679,6 +7673,13 @@
 45.197.25.0/24
 ## HostSlim B.V.
 66.63.168.112/24
+## ISTITUTO TECNICO INDUSTRIALE STATALE 'MAX PLANCK'
+2.112.70.196/32
+## Telecom Italia S.p.A.
+95.245.10.248/16
+95.255.108.3/16
+## Telecom Italia S.p.A. TIN EASY LITE
+87.15.79.79/15
 ## RackBank Datacenters Private Ltd
 43.254.31.139/24
 ## IPLUS LLC
