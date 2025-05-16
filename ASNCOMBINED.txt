@@ -1559,6 +1559,8 @@
 194.195.122.51/21
 ## Beijing Volcano Engine Technology Co., Ltd.
 101.126.22.66/21
+## Horizontes Telecom LTDA
+168.195.24.199/22
 ## Sefroyek Pardaz Engineering PJSC
 185.128.136.0/22
 185.170.8.0/24
