@@ -5679,6 +5679,12 @@
 45.7.165.115/24
 ## Asia Pacific Network Information Centre
 103.236.231.47/24
+## PE-TDP-GRS
+190.42.109.126/24
+190.234.242.149/20
+190.235.123.211/24
+200.121.203.95/24
+201.230.169.175/24
 ## New Hosting Technologies LLC
 91.193.43.0/24
 77.105.131.0/24
@@ -7049,11 +7055,6 @@
 101.58.221.125/32
 ## ESTRACOM SPA
 83.149.166.12/18
-## PE-TDP-GRS
-190.42.109.126/24
-190.234.242.149/20
-190.235.123.211/24
-200.121.203.95/24
 ## Static IP Poool for broadband customers in Moscow
 95.31.12.228/15
 ## Hosting Operator eServer.ru Ltd.
