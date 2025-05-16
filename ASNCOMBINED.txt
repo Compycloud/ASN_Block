@@ -6509,6 +6509,8 @@
 188.219.178.107/18
 ## GTELCOM LLC
 185.17.120.162/24
+## JustWeb Telecomunicações LTDA
+201.148.113.99/23
 ## Flyservers S.A.
 194.165.16.72/24
 ## SONATEL Societe Nationale Des Telecommunications Du Senegal
