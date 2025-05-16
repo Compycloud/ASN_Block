@@ -1327,6 +1327,8 @@
 ## Hosting servers and supporting infra
 # 185.7.252.210
 185.7.252.0/23
+## eSpeed - Broadband DSL
+119.160.185.186/23
 ## PERUSAHAAN DAERAH AIR MINUM (PDAM) KOTA BANJARMASIN
 183.91.76.156/24
 ## TNM_MBB3
