@@ -4044,6 +4044,8 @@
 77.246.144.0/21
 ## Govoruhin Vitaliy Sergeevich
 193.150.0.0/23
+## VIJIJI CONNECT LIMITED
+102.219.210.14/22
 ## GB, Highbridge
 195.219.32.160/16
 ## Vietnam Posts and Telecommunications Group
