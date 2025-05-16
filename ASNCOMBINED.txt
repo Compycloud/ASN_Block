@@ -1667,8 +1667,6 @@
 213.87.104.0/24
 213.87.105.0/24
 213.87.106.0/23
-## Pace Telecom and Brodcasting Private Limited
-103.19.49.37/24
 ## Cloud Master LLP
 185.206.34.34/24
 ## Ote SA (Hellenic Telecommunications Organisation)
@@ -2372,6 +2370,9 @@
 58.98.203.235/18
 ## Server Plan S.r.l.
 86.107.36.86/21
+## Pace Telecom and Brodcasting Private Limited
+103.19.49.37/24
+103.152.117.177/24
 ## BullRDP
 37.114.63.58/24
 ## Brander Group Inc.
