@@ -4119,6 +4119,8 @@
 77.246.144.0/21
 ## Govoruhin Vitaliy Sergeevich
 193.150.0.0/23
+## ZAIN KW
+188.236.62.187/20
 ## VIJIJI CONNECT LIMITED
 102.219.210.14/22
 ## GB, Highbridge
