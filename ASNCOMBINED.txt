@@ -6667,6 +6667,8 @@
 116.202.14.127/16
 ## Telecom Italia Mobile
 2.196.41.8/13
+## ORANGE COTE D'IVOIRE
+160.155.219.31/24
 ## A2 Hosting, Inc.
 190.92.151.24/22
 ## Telia Network Services
