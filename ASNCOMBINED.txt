@@ -5259,6 +5259,8 @@
 163.61.188.88/24
 ## Dimension Data
 196.210.77.61/24
+## Dimensiondata Broadband Delegated to WebAfrica
+197.95.81.43/19
 ## Soluciones web on line s.l.
 185.92.245.11/24
 ## Limited Network LTD
