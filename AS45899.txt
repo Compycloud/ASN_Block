@@ -1,4 +1,5 @@
 ## Vietnam Posts and Telecommunications Group
+14.170.182.172/20
 14.187.17.37/20
 14.229.103.125/20
 203.210.239.40/20
