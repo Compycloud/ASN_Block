@@ -4581,6 +4581,8 @@
 77.68.17.162/17
 ## Shared Hosting
 13.171.216.91/19
+## VILLA GESELL TELEVISIÒN COMUNITARIA S.A.
+38.50.113.128/24
 ## 11/F COL Tower, Wharf T&T Square
 103.6.48.0/22
 ## Bausch & Lomb
