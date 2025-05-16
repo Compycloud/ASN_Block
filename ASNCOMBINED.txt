@@ -134,6 +134,7 @@
 ## Atria Convergence Technologies Pvt. Ltd.,
 106.51.2.37/22
 ## Bezeq- THE ISRAEL TELECOMMUNICATION CORP. LTD.
+147.235.218.252/22
 147.235.196.197/22
 ## NxtGen Datacenter & Cloud Technologies Pvt. Ltd.
 103.177.225.48
