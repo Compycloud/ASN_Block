@@ -1,0 +1,2 @@
+## Allocated to Airtel Kenya Mobile Broadband and Fixed internet
+102.0.5.80/24
