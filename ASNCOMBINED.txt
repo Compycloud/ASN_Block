@@ -5217,10 +5217,6 @@
 185.42.12.0/24
 ## Chang Way Technologies Co. Limited
 62.204.41.0/24
-## Lansol GmbH
-176.95.46.124/32
-## Vodafone GmbH
-92.212.9.243/15
 ## Verizon Business
 71.164.83.186/32
 ## Leads Globe
@@ -6332,6 +6328,11 @@
 207.154.197.113/24
 209.38.23.77/20
 209.38.37.108/20
+## Lansol GmbH
+176.95.46.124/32
+## Vodafone GmbH
+92.212.9.243/15
+2.201.159.173/13
 ## Telefónica Celular de Bolivia S.A.
 181.188.143.51/24
 190.104.22.82/24
