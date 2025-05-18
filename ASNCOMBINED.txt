@@ -2384,6 +2384,8 @@
 207.7.84.16/21
 ## RailTel Corporation is an Internet Service Provider.
 27.122.61.214/24
+## Cogetel Ltd, Online ISP, Cambodia
+203.189.152.137/24
 ## XePhion(NTT-ME Corporation)
 58.98.203.235/18
 ## Server Plan S.r.l.
