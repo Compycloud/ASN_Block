@@ -2065,6 +2065,7 @@
 41.141.41.50/21
 196.89.140.156/21
 ## Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+196.64.118.173/21
 196.206.86.106/21
 ## Hilal Al-Rafidain for Computer and Internet Services Co., Ltd.
 217.145.229.243/24
