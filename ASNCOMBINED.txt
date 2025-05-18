@@ -5772,6 +5772,8 @@
 ## 4Media Ltd.
 83.222.190.42/24
 83.222.191.62/24
+## VIETTEL PERÚ S.A.C.
+181.176.171.47/24
 ## Poyraz Hosting Network
 91.151.90.110/24
 ## Alexandrion Saber Distilleries 1789 S.R.L.
