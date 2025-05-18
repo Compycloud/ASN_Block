@@ -1234,6 +1234,8 @@
 98.98.171.98/23
 ## Zenlayer Singapore network
 129.227.90.140/19
+## SERCOMTEL S/A TELECOMUNICACOES
+189.14.3.70/20
 ## Dora Telekomunikasyon Hizmetleri A.S.
 46.20.146.41/24
 ## EVANZO e-commerce GmbH
