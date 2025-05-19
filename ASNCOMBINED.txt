@@ -3108,6 +3108,8 @@
 ## Mailgun Technologies Inc.
 159.112.249.0/24
 198.244.49.176/24
+## Yoshizou XYZ Solutions
+113.29.217.165/21
 ## Aerotek Bilisim Taahhut Sanayi ve Ticaret Limited Sirketi
 109.232.216.71/23
 ## Proofpoint, Inc.
