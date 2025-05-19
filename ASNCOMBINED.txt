@@ -2380,6 +2380,8 @@
 ## University of California - Office of the President
 192.35.221.0/24
 192.35.226.0/24
+## Verivoz Communication Private Limited
+110.235.219.18/24
 ## PrivateSystems Networks GA
 207.7.84.16/21
 ## RailTel Corporation is an Internet Service Provider.
