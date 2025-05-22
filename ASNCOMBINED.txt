@@ -796,6 +796,8 @@
 45.157.43.200/22
 ## ClearPath1
 110.93.83.63/24
+## JSC Planetahost
+62.173.141.140/19
 ## Vietnam Posts and Telecommunications Group
 14.170.182.172/20
 14.187.17.37/20
