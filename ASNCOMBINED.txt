@@ -4161,6 +4161,8 @@
 157.66.54.30/24
 ## Internet Utilities Europe and Asia Limited
 31.56.56.147/24
+## Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+154.144.243.93/16
 ## Hormuud-Telecom-Somalia-inc
 192.145.174.202/24
 ## Shanghai Blue Cloud Technology Co.,Ltd
