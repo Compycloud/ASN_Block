@@ -2072,9 +2072,6 @@
 ## ANINETWORK PVT LTD
 103.28.253.136/24
 103.68.20.195/24
-## NTT DOCOMO,INC.
-114.190.54.22/32
-114.190.54.45/32
 ## Inspici
 45.84.89.2/24
 ## GVA Burkina Faso
@@ -5904,6 +5901,10 @@
 179.7.180.126/24
 ## WHG Hosting Services Ltd
 65.181.111.157/24
+## NTT DOCOMO,INC.
+60.36.166.34/32
+114.190.54.22/32
+114.190.54.45/32
 ## Chinatelecom global
 203.86.123.116/24
 ## China Mobile Communications Corporation
