@@ -199,6 +199,8 @@
 123.110.70.235/22
 ## Apple Technologies LLC
 193.164.17.45/24
+## LG POWERCOMM
+122.35.222.82/32
 ## Kinamo N.V.
 93.94.106.0/22
 ## Sky Telecom State Company
