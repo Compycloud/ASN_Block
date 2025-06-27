@@ -1,4 +1,5 @@
 ## Dimension Data
+196.39.96.237/18
 196.210.77.61/24
 ## Dimensiondata Broadband Delegated to WebAfrica
 197.95.81.43/19
