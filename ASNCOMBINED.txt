@@ -7312,6 +7312,8 @@
 193.31.6.0/24
 ## Server Hosting
 194.169.175.0/24
+## Makedonski Telekom AD-Skopje
+77.29.216.248/18
 ## MXCLOUD Ltd
 176.98.186.46/24
 ## PSERVERS Enterprise Network
