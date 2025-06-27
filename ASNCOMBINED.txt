@@ -1995,6 +1995,8 @@
 185.133.181.24/24
 ## Etihad Etisalat, a joint stock company
 37.243.12.118/20
+## ONE TELECOM TELECOMUNICACOES LTDA
+128.201.164.225/24
 ## Pace Telecom and Brodcasting Private Limited
 103.19.49.37/24
 103.152.117.177/24
