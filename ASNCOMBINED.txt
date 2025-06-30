@@ -1864,6 +1864,9 @@
 148.163.135.67/24
 ## Alsycon B.V. | VPS - Dedicated Servers - Colocation
 45.95.146.56/24
+## Limited Network LTD
+45.146.130.98/24
+185.93.89.118/24
 ## OOO IT-Grad
 5.200.52.37/24
 ## GEOBIS INTERNATIONAL GEOGRAPHIC BUSINESS INTELIGENCE SOLUTIONS S.A
@@ -4450,9 +4453,6 @@
 220.187.6.242/13
 ## TELECOM
 122.224.68.163/12
-## Limited Network LTD
-45.146.130.98/24
-185.93.89.118/24
 ## PT. Mora Telematika Indonesia
 103.154.148.50/24
 ## CPANEL hosting servers
