@@ -5028,9 +5028,6 @@
 84.32.59.24/24
 ## Dade Samane Fanava Company (PJS)
 78.157.35.67/24
-## SK Broadband Co Ltd
-121.125.71.53/16
-123.212.0.131/14
 ## Google Fiber Inc.
 136.38.237.72/20
 ## Compuweb Communications Services Infrastructure
@@ -6449,6 +6446,10 @@
 ## Proofpoint, Inc.
 143.55.146.210/24
 185.183.30.197/24
+## SK Broadband Co Ltd
+121.125.71.53/16
+123.212.0.131/14
+175.123.253.38/13
 ## Datacamp Limited
 95.173.222.47/24
 149.22.95.183/24
