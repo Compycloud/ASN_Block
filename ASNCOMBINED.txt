@@ -1996,6 +1996,7 @@
 ## Etihad Jawraa Company for communication and information technology
 185.133.181.24/24
 ## Etihad Etisalat, a joint stock company
+5.110.12.71/20
 37.243.12.118/20
 ## ONE TELECOM TELECOMUNICACOES LTDA
 128.201.164.225/24
