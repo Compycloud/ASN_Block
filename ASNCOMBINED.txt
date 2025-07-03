@@ -990,6 +990,8 @@
 190.114.32.12/21
 ## Golden Frog GmbH
 31.6.50.91/24
+## Digital Communications Ltd.
+185.18.59.118/24
 ## Cyber Internet Services Pakistan
 202.47.59.39/24
 ## HostBet Cloud Technologies Private Limited
