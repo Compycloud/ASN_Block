@@ -5786,6 +5786,8 @@
 185.203.186.207/22
 ## Hubuco
 185.196.54.229/22
+## GMO Internet Group, Inc.
+160.251.175.124/24
 ## Axxess Networks
 156.155.253.193/24
 ## SAKURA Internet Inc.
