@@ -2661,6 +2661,8 @@
 165.73.253.239/23
 ## Vinh Railway Signalling - Telecom Joint Stock Company
 103.154.176.201/23
+## SKSA TECHNOLOGY SDN BHD
+103.8.27.102/24
 ## WorldLink Communications
 27.34.65.159/24
 ## Hosteons.com VPS
