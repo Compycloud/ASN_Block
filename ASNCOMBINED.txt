@@ -3217,6 +3217,7 @@
 ## HostHatch Inc
 176.126.86.157/24
 ## CHINANET Sichuan province network
+118.123.240.135/20
 ## Internap Holding LLC
 162.217.96.20/32
 162.217.96.21/32
