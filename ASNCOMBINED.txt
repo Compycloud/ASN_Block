@@ -4608,6 +4608,8 @@
 194.5.183.48/24
 ## Asia Pacific Network Information Centre
 103.236.231.47/24
+## TDC Kabel TV
+93.160.28.140/13
 ## Vodafone Portugal
 89.115.243.186/15
 ## Informacines sistemos ir technologijos, UAB
