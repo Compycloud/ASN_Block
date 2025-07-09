@@ -3053,6 +3053,8 @@
 ## Lanset America Corporation
 # 69.94.148.90 69.94.148.63 
 69.94.148.0/24
+## CSLOXINFO-IDC
+27.254.87.147/22
 ## Cloud Master LLP
 185.206.34.34/24
 ## Global Network Management Inc
