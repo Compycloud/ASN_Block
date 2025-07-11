@@ -3427,6 +3427,8 @@
 92.246.141.64/24
 147.45.66.238/24
 185.103.101.228/24
+## Ace Data Centers II, LLC
+77.239.110.73/24
 ## ZAIN KW
 188.236.62.187/20
 ## RailTel Corporation is an Internet Service Provider.
