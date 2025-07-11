@@ -4018,9 +4018,6 @@
 45.221.239.2/32
 ## ELIMNET, INC.
 49.239.128.5/19
-## Scaleway Dedibox
-# 62.210.24.157
-62.210.0.0/16
 ## Flux Services, Inc.
 173.225.21.50/23
 ## HOSTEUR SAS
@@ -7371,6 +7368,11 @@
 185.188.181.57/24
 ## Visistat
 209.128.119.146/19
+## Scaleway Dedibox
+# 62.210.24.157
+62.210.0.0/16
+## Scaleway Dedibox - Paris, France
+163.172.102.114/16
 ## Krystal Hosting Ltd
 185.199.223.44/22
 ## Genstar Network Solutions Pvt Ltd.
