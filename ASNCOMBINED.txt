@@ -2963,6 +2963,8 @@
 161.29.55.122/16
 ## Alink Telecom Ghana
 41.190.69.38/24
+## Netclues Technologies Private Limited
+103.154.233.56/24
 ## Vietnam Posts and Telecommunications Group
 14.225.210.27/24
 14.225.231.69/24
