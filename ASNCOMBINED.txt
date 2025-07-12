@@ -4790,6 +4790,8 @@
 103.72.2.100/24
 ## ONE TELECOM TELECOMUNICACOES LTDA
 128.201.164.225/24
+## DigiRock, Inc.
+202.172.28.131/21
 ## Bahialink Technology Ltda
 143.137.198.229/24
 ## ADSL Customers in Luanda city
