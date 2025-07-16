@@ -7992,6 +7992,8 @@
 65.20.233.3/24
 ## WHG Hosting Services Ltd
 198.38.83.208/24
+## Hong Kong Broadband Network Ltd
+59.148.52.190/18
 ## nuxt.cloud hosting provider
 212.113.107.32/24
 ## UNMANAGED LTD
