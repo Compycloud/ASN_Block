@@ -1980,6 +1980,8 @@
 117.120.12.90/21
 ## Beam Telecom Pvt Ltd
 49.206.117.56/22
+## ONEOTT INTERTAINMENT LIMITED
+111.223.27.151/24
 ## VPS and Shared Hosting
 5.188.206.54/24
 ## Linode
