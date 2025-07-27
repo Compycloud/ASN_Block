@@ -1,0 +1,2 @@
+## Verizon Pacifica
+64.193.122.130/23
