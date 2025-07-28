@@ -4340,6 +4340,7 @@
 ## Swiss Federation represented by FOITT
 162.23.23.176/16
 ## PT. First Media, Tbk.
+111.94.63.126/19
 111.94.193.166/19
 139.194.132.129/19
 ## ITSPECTRUM-ISP
