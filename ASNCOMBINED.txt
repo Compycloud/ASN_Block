@@ -1155,6 +1155,8 @@
 45.232.193.201/24
 ## Flyservers S.A.
 194.165.16.72/24
+## Ideal Hosting Teknoloji A.S.
+91.106.218.81/24
 ## Allocated to Airtel Kenya Mobile Broadband and Fixed internet
 102.0.5.80/24
 ## Web Werks India Pvt. Ltd
