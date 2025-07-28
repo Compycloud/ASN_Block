@@ -1773,10 +1773,6 @@
 ## PROXY SOLUTIONS LTD
 45.196.210.0/24
 45.197.25.0/24
-## Zenlayer Inc
-98.98.171.98/23
-## Zenlayer Singapore network
-129.227.90.140/19
 ## WHG Hosting Services Ltd
 195.250.23.30/24
 ## GLOBAL INTERNET SOLUTIONS LLC
@@ -8227,6 +8223,12 @@
 ## Mobile TeleSystems JLLC
 134.17.14.70/20
 134.17.94.149/21
+## Zenlayer Inc
+98.98.171.98/23
+## Zenlayer Singapore network
+129.227.90.140/19
+## ZEN-SG
+156.59.177.120/22
 ## New Era Publications International ApS
 194.255.110.8/16
 ## Domain names registrar REG.RU, Ltd
