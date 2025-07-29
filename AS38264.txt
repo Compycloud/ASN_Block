@@ -1,0 +1,2 @@
+## National Wimax/IMS environment
+58.27.164.166/22
