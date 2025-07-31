@@ -10,7 +10,8 @@
 101.125.250.0/23
 101.125.4.0/23
 101.125.6.0/24
-## China Unicom Hebei province network	
+## China Unicom Hebei province network
+60.3.254.52/13
 101.16.0.0/12
 ## Beijing Qihu Technology Company Limited	
 101.198.196.0/22
