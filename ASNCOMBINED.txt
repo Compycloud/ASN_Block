@@ -3787,6 +3787,8 @@
 129.227.90.140/19
 ## ZEN-SG
 156.59.177.120/22
+## University of Dhaka
+103.221.252.41/24
 ## Carnival-Internet
 103.112.55.168/24
 ## CAMTEL
