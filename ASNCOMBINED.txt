@@ -6569,6 +6569,8 @@
 58.16.215.241/16
 ## China Unicom Neimeng Province Network
 116.115.185.234/14
+## China Unicom InnerMongolia province network
+110.19.226.47/14
 ## Poyraz Hosting Network
 91.151.90.110/24
 ## FiberXpress BV
