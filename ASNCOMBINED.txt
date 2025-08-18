@@ -901,12 +901,6 @@
 156.176.138.171/18
 ## Hyperhost LTD
 185.174.173.11/22
-## Liquid Web, L.L.C
-67.227.198.114/17
-69.16.221.60/18
-192.190.220.105/22
-199.189.225.235/23
-209.59.154.248/18
 ## HostBet Cloud Technologies Private Limited
 45.67.14.38/24
 ## OJSC Rostelecom, Tambov branch
@@ -7872,6 +7866,13 @@
 103.242.119.200/24
 ## Expedient
 66.181.72.85/32
+## Liquid Web, L.L.C
+67.227.198.114/17
+69.16.221.60/18
+72.52.131.83/17
+192.190.220.105/22
+199.189.225.235/23
+209.59.154.248/18
 ## Emirates Telecommunications Corporation
 92.97.100.38/21
 ## OJSC Rostelecom Macroregional Branch South
