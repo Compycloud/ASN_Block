@@ -2000,6 +2000,8 @@
 62.210.0.0/16
 ## Scaleway Dedibox - Paris, France
 163.172.102.114/16
+## SCALEWAY S.A.S.
+62.4.16.157/19
 ## Dattatec.com
 200.45.208.164/24
 ## X-LINK LIMITED
