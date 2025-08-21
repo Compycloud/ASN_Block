@@ -3148,7 +3148,9 @@
 ## INTERMEGAMUNDO PARTNERS S.A.S.
 45.172.218.182/24
 ## Servebolt AS
-185.91.67.253//22
+185.91.67.253/22
+## Blix Solutions - London
+185.41.242.102/22
 ## Mobile Communication Company of Iran PLC
 46.164.87.176/20
 91.133.222.50/20
