@@ -200,3 +200,5 @@
 116.115.185.234/14
 ## China Unicom InnerMongolia province network
 110.19.226.47/14
+## China Unicom Shannxi province network
+124.89.49.2/17
