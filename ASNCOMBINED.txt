@@ -6632,6 +6632,7 @@
 190.135.83.118/20
 ## Dedicated Servers and VPS Hosting by VPSVAULT.HOST
 87.121.84.211/24
+87.120.191.0/24
 ## Vietnam Posts and Telecommunications Group
 14.170.182.172/20
 14.187.17.37/20
