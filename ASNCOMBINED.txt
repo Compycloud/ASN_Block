@@ -739,18 +739,6 @@
 94.159.101.65/20
 ## J. C. COMERCIO E SERVICOS DE PROVEDOR DE INTERNET
 45.170.207.200/23
-## IONOS SE
-82.223.29.42/16
-108.175.0.165/20
-194.164.204.145/20
-217.160.51.52/16
-## IONOS Inc.
-74.208.82.207/16
-198.71.62.233/20
-## UK Next Generation Cloud Server (NGCS)
-77.68.17.162/17
-## Shared Hosting
-13.171.216.91/19
 ## Access World
 103.233.58.3/23
 ## ONE TELECOM TELECOMUNICACOES LTDA
@@ -5180,6 +5168,19 @@
 137.59.110.109/22
 ## Iranscience network Data Center & Storage Network
 62.60.136.215/24
+## IONOS SE
+82.223.29.42/16
+108.175.0.165/20
+194.164.204.145/20
+217.154.100.42/23
+217.160.51.52/16
+## IONOS Inc.
+74.208.82.207/16
+198.71.62.233/20
+## UK Next Generation Cloud Server (NGCS)
+77.68.17.162/17
+## Shared Hosting
+13.171.216.91/19
 ## Websurfer Nepal Communication System Pvt. Ltd
 116.90.227.204/24
 ## Palo Alto Networks, Inc
