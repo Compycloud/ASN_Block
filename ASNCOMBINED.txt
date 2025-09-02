@@ -731,8 +731,6 @@
 110.93.83.63/24
 ## Iran Cell Service and Communication Company
 5.112.6.190/20
-## Soluciones web on line s.l.
-185.92.245.11/24
 ## Heinlein-Support GmbH 
 80.241.60.0/24
 ## H2.NEXUS Frankfurt Network
@@ -3315,6 +3313,9 @@
 ## internet-security-Zhongguanchun
 196.251.92.77/24
 196.251.93.2/24
+## Soluciones web on line s.l.
+185.92.245.11/24
+185.177.153.112/24
 ## VI NA DATA INFORMATION TECHNOLOGY - SERVICE JOINT STOCK COMPANY
 61.28.231.193/24
 ## Telekom Srpske
